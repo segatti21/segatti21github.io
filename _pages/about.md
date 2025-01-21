@@ -45,6 +45,3 @@ Research labs, schooling, and internships have taught Elizabeth a wide range of 
 ## Future Plans 
 
 Upon graduation, Elizabeth will be working for Medtronic in their Texas office, mainly focusing on manufacturing of the Midas Rex drill [More About Midas Rex Drill]([https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/powered-surgical-instruments/high-speed-pneumatic-surgical-drills/midas-rex-mr8-high-speed-drill-system.html]).
-
-
-<img src="/assets/img/View recent photos 4.jpeg" alt="Elizabeth Gatti" style="width:200px;"/>
