@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "This DIY syringe pump is motor-driven and capable various flow rates and syringe diameters."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
+  image: /assets/img/CAD Model.png
   teaser: /assets/img/CAD Model.png
 gallery:
   - url: /assets/img/CAD Model.png
@@ -37,8 +37,14 @@ The syringe pump should be operated by adhering to the following steps:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47e94ace65a8e8875?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Arduino Code for Proper Liquid Dispensal
+# Off-the-Shelf-Parts:
 
-[Arduino Code]([https://github.com/segatti21/Syringe-Pump/blob/main/Syringe_Pump_Arduino_Code.ino]).
+| Part Name                                        | Link to Part  |
+| ------------------------------------------------ | --------------------------------------------------------------------------------- |
+| 250 mm lead screw with 2 mm pitch and 2 mm lead  | [Lead Screw]([https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1]) |
 
-{% include gallery caption="Photos from throughout project" %}
+| Content Cell  | Content Cell  |
+
+## Arduino Code for Proper Liquid Dispensal can be found here: [Arduino Code]([https://github.com/segatti21/Syringe-Pump/blob/main/Syringe_Pump_Arduino_Code.ino]).
+
+# {% include gallery caption="Photos from throughout project" %}
