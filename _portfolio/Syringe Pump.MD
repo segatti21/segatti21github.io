@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "This DIY syringe pump is motor-driven and capable various flow rates and syringe diameters."
 header:
-  image: /assets/img/SP Teaser.png 
+  image: /assets/img/SP Teaser.png  
   teaser: /assets/img/CAD Model.png
 gallery:
   - url: /assets/img/CAD Model.png
