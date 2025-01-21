@@ -10,17 +10,18 @@ header:
       url: "/portfolio/"
 excerpt: "Elizabeth Gatti is an engineering student with a passion for biomedical innovations. By expanding her skills in additive manufacturing, she hopes to contribute to Medtronic's innovation with improved modeling and production plans."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/3D print organs.webp
+    alt: "3D organ"
+    title: "Future Potential for 3D Printing Organs"
+    excerpt: "Unique materials used and combined to find best likeness"
+  - image_path: assets/img/BME pic.jpg
+    alt: "Prosthetics"
+    title: "Materials for Prosthetics"
+    excerpt: "Exploring new avenues for manufacturing these innovations"
+  - image_path: assets/img/Medtronic Building Pic.webp
+  - alt: "Medtronic"
+    title: "Future Medtronic Office"
+    excerpt: "Employment office that houses the 3D printer"
 ---
 
 {% include feature_row %}
