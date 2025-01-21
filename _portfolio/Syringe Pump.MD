@@ -59,11 +59,10 @@ The syringe pump should be operated by adhering to the following steps:
 ---
 
 # 3D Printed Parts:
-| Part Name             | Part Function                             |
-| --------------------- | ----------------------------------------- |
-| Carriage, Coupler     | Mount the motor to the aluminum extrusion |
-| End and Tips Supports | Hold the syringe                          |
-| Enclosure             | Enclose the electronics and brackets      |
+
+Carriage & Coupler: Mount the motor to the aluminum extrusion 
+End and Tips Supports: Hold the syringe                          
+Enclosure: Encloses the electronics and brackets      
 
 ---
 
