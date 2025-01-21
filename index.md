@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Elizabeth Gatti is an engineering student with a passion for biomedical innovations. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Elizabeth Gatti is an engineering student with a passion for biomedical innovations. By expanding her skills in additive manufacturing, she hopes to contribute to Medtronic's innovation with improved modeling and production plans."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
