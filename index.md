@@ -8,19 +8,16 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Elizabeth Gatti is an engineering student with a passion for biomedical innovations. By expanding her skills in additive manufacturing, she hopes to contribute to Medtronic's innovation with improved modeling and production plans."
+excerpt: "Elizabeth Gatti is an engineering student with a passion for biomedical innovations. By expanding her skills in additive manufacturing, she hopes to contribute to Medtronic's innovation with improved modeling and production plans. As innovations grow and technological advancements expand, digital fabrication will grow to play a major role in the field of medicine. Elizabeth hopes by growing in this field she will be on the cutting edge of the inventions to come."
 feature_row:
   - image_path: assets/img/3D Print Organ.png
     alt: "3D organ"
     title: "Future Potential for 3D Printing Organs"
-    excerpt: "Unique materials used and combined to find best likeness"
   - image_path: assets/img/BME pic.jpg
     alt: "Prosthetics"
-    title: "Materials for Prosthetics"
-    excerpt: "Exploring new avenues for manufacturing these innovations"
+    title: "Various Materials for Prosthetics"
   - image_path: assets/img/Medtronic Building Pic.webp
-    title: "Medtronic Office"
-    excerpt: "Employmer that has 3D printer" 
+    title: "3D Printing at the Medtronic Office"
 ---
 
 {% include feature_row %}
