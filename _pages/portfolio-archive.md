@@ -9,5 +9,5 @@ classes: wide
 
 My digital fabrication projects:
 
-CAD Refresher Assignment
-DIY Syringe Pump
+* CAD Refresher Assignment
+* DIY Syringe Pump
