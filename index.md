@@ -1,5 +1,6 @@
 ---
-title: "CHBE 4200 Completed Work and Project"
+title: "Additive Manufacturing Accomplishments"
+subtitle: "CHBE 4200 Completed Assignments, Projects, and more"
 layout: splash
 header:
   overlay_color: "#000"
