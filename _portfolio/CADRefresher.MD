@@ -2,7 +2,7 @@
 title: "CAD Refresher Assignment"
 excerpt: "Proved capacity to utilize parameters to make alterations more efficient with a Right Angle Bracket"
 header:
-  image: /assets/img/RightAngleStockPicture.jpeg
+  image: /assets/img/RAB Teaser.png
   teaser: /assets/img/RAB Teaser.png
 gallery:
   - image_path: assets/img/Bracket with2.png
@@ -20,4 +20,4 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e9cfb891f179a241?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Right Angle Bracket" %}
+{% include gallery caption="Right Angle Bracket Pictures Showing Various Angles and Hole Amount" %}
