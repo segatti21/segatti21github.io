@@ -4,9 +4,9 @@ title: "About Elizabeth Gatti"
 
 ---
 
-## Education
+Elizabeth has a deep passion for engineering, causing her to pursue various avenues of the field in educational, research, and industrial settings. These experiences have set her up to fully appreciate what can be accomplished by learning more through Additive Manufacturing.
 
-Elizabeth has a deep passion for engineering, which has caused her to pursue various avenues of education
+## Education
 
 * Vanderbilt University Class of 2025
   * Bachelor of Engineering
@@ -34,7 +34,7 @@ Elizabeth has a deep passion for engineering, which has caused her to pursue var
 
 Research labs, schooling, and internships have taught Elizabeth a wide range of skills, including the following:
 
-* Circuitry wiring and encoding
+* Circuitry Wiring and Encoding
 * Microcontroller Applications
 * Brain Image Preprocessing, Analysis, and Data Display
 * Coding Language Proficiency (Java, MATLAB, SQL, Jupyter, Arduino, etc.)
@@ -42,6 +42,11 @@ Research labs, schooling, and internships have taught Elizabeth a wide range of 
 * Microscope Use
 * Conference Talks and Posters
 
+## Publications
+* Presented findings at VUIIS, BMES, and AES conferences
+* Fourth author on [Brain-wide human oscillatory local field potential activity during visual working memory]([https://www.cell.com/iscience/fulltext/S2589-0042(24)00351-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004224003511%3Fshowall%3Dtrue])
+
+
 ## Future Plans 
 
-Upon graduation, Elizabeth will be working for Medtronic in their Texas office, mainly focusing on manufacturing of the Midas Rex drill [More About Midas Rex Drill]([https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/powered-surgical-instruments/high-speed-pneumatic-surgical-drills/midas-rex-mr8-high-speed-drill-system.html]).
+Upon graduation, Elizabeth will be working for Medtronic in their Texas office, mainly focusing on manufacturing of the Midas Rex drill ( [More About Midas Rex Drill]([https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/powered-surgical-instruments/high-speed-pneumatic-surgical-drills/midas-rex-mr8-high-speed-drill-system.html]) ).
