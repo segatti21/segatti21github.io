@@ -44,9 +44,9 @@ Research labs, schooling, and internships have taught Elizabeth a wide range of 
 
 ## Publications
 * Presented findings at VUIIS, BMES, and AES conferences
-* Fourth author on [Brain-wide human oscillatory local field potential activity during visual working memory]([https://www.cell.com/iscience/fulltext/S2589-0042(24)00351-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004224003511%3Fshowall%3Dtrue])
+* Fourth author on [Brain-wide human oscillatory local field potential activity during visual working memory](https://www.cell.com/iscience/fulltext/S2589-0042(24)00351-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004224003511%3Fshowall%3Dtrue)
 
 
 ## Future Plans 
 
-Upon graduation, Elizabeth will be working for Medtronic in their Texas office, mainly focusing on manufacturing of the Midas Rex drill ( [More About Midas Rex Drill]([https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/powered-surgical-instruments/high-speed-pneumatic-surgical-drills/midas-rex-mr8-high-speed-drill-system.html]) ).
+Upon graduation, Elizabeth will be working for Medtronic in their Texas office, mainly focusing on manufacturing of the Midas Rex drill ( [More About Midas Rex Drill](https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/powered-surgical-instruments/high-speed-pneumatic-surgical-drills/midas-rex-mr8-high-speed-drill-system.html) ).
