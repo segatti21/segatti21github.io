@@ -1,9 +1,9 @@
 ---
 title: "Syringe Pump"
-excerpt: "This custom syringe pump is motor-driven and capable various flow rates and syringe diameters."
+excerpt: "This DIY syringe pump is motor-driven and capable various flow rates and syringe diameters."
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/CAD Model.png
 gallery:
   - url: /assets/img/CAD Model.png
     image_path: assets/img/CAD Model.png
