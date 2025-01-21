@@ -16,19 +16,19 @@ Elizabeth has a deep passion for engineering, causing her to pursue various aven
 ## Work Experience and Research
 
 * Louisiana Health Sciences Center
-    * Dr. Gestal's Lab: Looked into the purpose and functionality of eosinophils
-    * Dr. Kamil's Lab: Explored characteristics of COVID-19 as it spreads and attacks
+    * Dr. Gestal's Lab: Looked into the purpose and functionality of eosinophils by studying the effect on mice
+    * Dr. Kamil's Lab: Explored characteristics of COVID-19 via cell cultures, microscopic analysis, DNA manipulation, and fluorescence tools
 
 * National High Magnetic Laboratory
     * Dr. Ali's Lab: Discovered methods to actuate erthythrocytes as micromotors for drug delivery
 
 * Vanderbilt University
-    * Dr. Morgans's Lab: Uncovered how smaller sections of the thalamus play a role in Temporal Lobe Epilepsy
-    * Dr. Constantinidis's Lab: Gathered and processed data in the Epilepsy Monitoring Unit as it relates to spatial awareness and memory
+    * Dr. Morgans's Lab: Uncovered how structural connectivity of small thalamic subsections play a role in Temporal Lobe Epilepsy
+    * Dr. Constantinidis's Lab: Gathered and processed data in the Vanderbilt Epilepsy Monitoring Unit as it relates to spatial awareness and memory
     * Dr. Broadie's Lab: Worked with and analyzed drosophilia neuomuscular junctions
       
  * Medtronic
-   * Jessy Douglas's Site: Improved efficiency via three projects over the summer under Scott Dillon 
+   * Jessy Douglas's Site: Improved efficiency and accuracy of manufacturing processes under the management of Scott Dillon 
 
 ## Technical Skills
 
