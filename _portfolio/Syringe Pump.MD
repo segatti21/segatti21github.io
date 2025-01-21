@@ -56,13 +56,6 @@ The syringe pump should be operated by adhering to the following steps:
 | [Limit Switch](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) | 1 |
 | [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 1 |
 
-# 3D Printed Parts:
-| Part Name             | Part Function                             |
-| --------------------- | ----------------------------------------- |
-| Carriage, Coupler     | Mount the motor to the aluminum extrusion |
-| End and Tips Supports | Hold the syringe                          |
-| Enclosure             | Enclose the electronics and brackets      |
-
 
 ## Arduino Code for Proper Liquid Dispensal can be found here: [Arduino Code](https://github.com/segatti21/Syringe-Pump/blob/main/SP_ArduinoCode.html)
 
