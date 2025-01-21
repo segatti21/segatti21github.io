@@ -18,8 +18,8 @@ feature_row:
     alt: "Prosthetics"
     title: "Materials for Prosthetics"
     excerpt: "Exploring new avenues for manufacturing these innovations"
-  - image_path: assets/img/Med Tall.png
-  - title: "Medtronic Office"
+  - image_path: assets/img/Medtronic Building Pic.webp
+    title: "Medtronic Office"
     excerpt: "Employmer that has 3D printer" 
 ---
 
