@@ -3,7 +3,7 @@ title: "CAD Refresher Assignment"
 excerpt: "Proved capacity to utilize parameters to make alterations more efficient with a Right Angle Bracket"
 header:
   image: /assets/img/RAB Teaser.png
-  teaser: /assets/img/RAB Teaser.png
+  teaser: /assets/img/RightAngleStockPicture.jpeg
 gallery:
   - image_path: assets/img/Bracket with2.png
   - image_path: assets/img/Side View of Bracket.png
