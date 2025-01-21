@@ -19,8 +19,8 @@ feature_row:
     title: "Materials for Prosthetics"
     excerpt: "Exploring new avenues for manufacturing these innovations"
   - image_path: assets/img/Med Tall.png
-  - title: "Future Medtronic Office"
-    excerpt: "Employment office that houses the 3D printer" 
+  - title: "Medtronic Office"
+    excerpt: "Employmer that has 3D printer" 
 ---
 
 {% include feature_row %}
