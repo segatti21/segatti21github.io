@@ -19,8 +19,7 @@ feature_row:
     title: "Materials for Prosthetics"
     excerpt: "Exploring new avenues for manufacturing these innovations"
   - image_path: assets/img/Medtronic Building Pic.webp
-  - alt: "Medtronic"
-    title: "Future Medtronic Office"
+  - title: "Future Medtronic Office"
     excerpt: "Employment office that houses the 3D printer"
 ---
 
