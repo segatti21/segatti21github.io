@@ -57,6 +57,6 @@ The syringe pump should be operated by adhering to the following steps:
 | [RGB Common Cathode LED]([https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1]) | 1 |
 
 
-## Arduino Code for Proper Liquid Dispensal can be found here: [Arduino Code]([https://github.com/segatti21/Syringe-Pump/blob/main])
+## Arduino Code for Proper Liquid Dispensal can be found here: [Arduino Code]([https://github.com/segatti21/Syringe-Pump/blob/main/SP_ArduinoCode.html])
 
 {% include gallery caption="Photos from throughout project" %}
