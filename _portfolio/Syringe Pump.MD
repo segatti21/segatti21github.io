@@ -41,8 +41,8 @@ The syringe pump should be operated by adhering to the following steps:
 
 | Part Name with Link                              | Quantity of Part  |
 | ------------------------------------------------ | --------------------------------------------------------------------------------- |
-| [250 mm lead screw with 2 mm pitch and 2 mm lead]([https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1]) | 1 |
-| [250 mm lead screw with 2 mm pitch and 8 mm lead]([https://www.amazon.com/gp/product/B0B8RKN89V?ie=UTF8&th=1&linkCode=sl1&tag=drd0cf-20&linkId=bb4eefbbfff880704d7cd0784b1af8c0&language=en_US&ref_=as_li_ss_tl]) | 1 |
+| [250 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) | 1 |
+| [250 mm lead screw with 2 mm pitch and 8 mm lead](https://www.amazon.com/gp/product/B0B8RKN89V?ie=UTF8&th=1&linkCode=sl1&tag=drd0cf-20&linkId=bb4eefbbfff880704d7cd0784b1af8c0&language=en_US&ref_=as_li_ss_tl) | 1 |
 | [1/4" x 8mm Flexible Coupling]([https://us.openbuilds.com/1-4-x-8mm-flexible-coupling/]) | 1 |
 | [200 mm linear rod with 8 mm diameter]([https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3]) | 2 |
 | [LM8UU Linear bearing for 8 mm diameter rod]([https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1]) | 2 |
