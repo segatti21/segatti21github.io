@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Elizabeth Gatti is an engineering student with a passion for biomedical innovations. By expanding her skills in additive manufacturing, she hopes to contribute to Medtronic's innovation with improved modeling and production plans."
 feature_row:
-  - image_path: assets/img/3D print organs.webp
+  - image_path: assets/img/3D Print Organ.png
     alt: "3D organ"
     title: "Future Potential for 3D Printing Organs"
     excerpt: "Unique materials used and combined to find best likeness"
