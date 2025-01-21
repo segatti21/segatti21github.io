@@ -1,6 +1,6 @@
 ---
-title: "CAD Refresher Assignment"
-excerpt: "Proved capacity to utilize parameters to make alterations more efficient with a Right Angle Bracket"
+title: "CAD Refresher"
+excerpt: "This model causes the creator to utilize parameters to make alterations more efficient"
 header:
   image: /assets/img/RAB Teaser.png
   teaser: /assets/img/RightAngleStockPicture.jpeg
