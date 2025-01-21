@@ -13,19 +13,22 @@ Elizabeth has a deep passion for engineering, which has caused her to pursue var
     * Majors: Biomedical Engineering and Electrical & Computer Engineering
     * Minors: Computer Science, Digital Fabrication, and Engineering Management
 
-## Research
+## Work Experience and Research
 
 * Louisiana Health Sciences Center
- * Dr. Gestal's Lab: Looked into the purpose and functionality of eosinophils
- * Dr. Kamil's Lab: Explored characteristics of COVID-19 as it spreads and attacks
+    * Dr. Gestal's Lab: Looked into the purpose and functionality of eosinophils
+    * Dr. Kamil's Lab: Explored characteristics of COVID-19 as it spreads and attacks
 
 * National High Magnetic Laboratory
- * Dr. Ali's Lab: Discovered methods to actuate erthythrocytes as micromotors for drug delivery
+    * Dr. Ali's Lab: Discovered methods to actuate erthythrocytes as micromotors for drug delivery
 
 * Vanderbilt University
- * Dr. Morgans's Lab: Uncovered how smaller sections of the thalamus play a role in Temporal Lobe Epilepsy
- * Dr. Constantinidis's Lab: Gathered and processed data in the Epilepsy Monitoring Unit as it relates to spatial awareness and memory
- * Dr. Broadie's Lab: Worked with and analyzed drosophilia neuomuscular junctions
+    * Dr. Morgans's Lab: Uncovered how smaller sections of the thalamus play a role in Temporal Lobe Epilepsy
+    * Dr. Constantinidis's Lab: Gathered and processed data in the Epilepsy Monitoring Unit as it relates to spatial awareness and memory
+    * Dr. Broadie's Lab: Worked with and analyzed drosophilia neuomuscular junctions
+      
+ * Medtronic
+   * Jessy Douglas's Site: Improved efficiency via three projects over the summer under Scott Dillon 
 
 ## Technical Skills
 
