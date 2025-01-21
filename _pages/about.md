@@ -4,7 +4,7 @@ title: "About Elizabeth Gatti"
 
 ---
 
-Elizabeth has a deep passion for engineering, causing her to pursue various avenues of the field in educational, research, and industrial settings. These experiences have set her up to fully appreciate what can be accomplished by learning more through Additive Manufacturing.
+Elizabeth has a deep passion for engineering, causing her to pursue various avenues of the field in educational, research, and industrial settings. These experiences have set her up to fully appreciate what can be accomplished through Additive Manufacturing.
 
 ## Education
 
