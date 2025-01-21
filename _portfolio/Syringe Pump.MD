@@ -43,20 +43,20 @@ The syringe pump should be operated by adhering to the following steps:
 | ------------------------------------------------ | --------------------------------------------------------------------------------- |
 | [250 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) | 1 |
 | [250 mm lead screw with 2 mm pitch and 8 mm lead](https://www.amazon.com/gp/product/B0B8RKN89V?ie=UTF8&th=1&linkCode=sl1&tag=drd0cf-20&linkId=bb4eefbbfff880704d7cd0784b1af8c0&language=en_US&ref_=as_li_ss_tl) | 1 |
-| [1/4" x 8mm Flexible Coupling]([https://us.openbuilds.com/1-4-x-8mm-flexible-coupling/]) | 1 |
-| [200 mm linear rod with 8 mm diameter]([https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3]) | 2 |
-| [LM8UU Linear bearing for 8 mm diameter rod]([https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1]) | 2 |
-| [2040 Aluminum Extrusion 1' Length ]([https://us.openbuilds.com/v-slot-20x40-linear-rail/]) | 1 |
-| [Nema 17 Stepper Motor]([https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1]) | 1 |
-| [MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp]([https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc=1]) | 1 |
-| [Arduino Uno]([https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ]) | 1 |
-| [A4988 Stepper Driver]([https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1]) | 1 |
-| [Small Breadboard]([https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1]) | 1 |
-| [Panel Mount Latching Push Buttons]([https://www.amazon.com/dp/B07XTBL1NP?smid=A2NNH5C5IP9N3O&linkCode=sl1&tag=drd0cf-20&linkId=43b42a7cb2a088ebd85d65cb9da46725&language=en_US&ref_=as_li_ss_tl&th=1]) | 1 |
-| [Limit Switch]([https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1]) | 1 |
-| [RGB Common Cathode LED]([https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1]) | 1 |
+| [1/4" x 8mm Flexible Coupling](https://us.openbuilds.com/1-4-x-8mm-flexible-coupling/) | 1 |
+| [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) | 2 |
+| [LM8UU Linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) | 2 |
+| [2040 Aluminum Extrusion 1' Length ](https://us.openbuilds.com/v-slot-20x40-linear-rail/) | 1 |
+| [Nema 17 Stepper Motor](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) | 1 |
+| [MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc=1) | 1 |
+| [Arduino Uno](https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ) | 1 |
+| [A4988 Stepper Driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1) | 1 |
+| [Small Breadboard](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) | 1 |
+| [Panel Mount Latching Push Buttons](https://www.amazon.com/dp/B07XTBL1NP?smid=A2NNH5C5IP9N3O&linkCode=sl1&tag=drd0cf-20&linkId=43b42a7cb2a088ebd85d65cb9da46725&language=en_US&ref_=as_li_ss_tl&th=1) | 1 |
+| [Limit Switch](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) | 1 |
+| [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 1 |
 
 
-## Arduino Code for Proper Liquid Dispensal can be found here: [Arduino Code]([https://github.com/segatti21/Syringe-Pump/blob/main/SP_ArduinoCode.html])
+## Arduino Code for Proper Liquid Dispensal can be found here: [Arduino Code](https://github.com/segatti21/Syringe-Pump/blob/main/SP_ArduinoCode.html)
 
 {% include gallery caption="Photos from throughout project" %}
