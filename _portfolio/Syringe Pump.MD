@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/CAD Model.png
 gallery:
   - url: /assets/img/CAD Model.png
-    image_path: assets/img/CAD Model.png
+    image_path: assets/img/CAD Model.png 
     alt: "CAD image"
   - url: /assets/img/RL Model.png
     image_path: assets/img/RL Model.png
