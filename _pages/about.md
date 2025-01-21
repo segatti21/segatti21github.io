@@ -1,18 +1,15 @@
 ---
 
-title: "About David Florian"
+title: "About Elizabeth Gatti"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Elizabeth prides herself on her diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Biomedical Engineering and Electrical & Computer Engineering
 
 ## Technical Skills
 
