@@ -1,7 +1,7 @@
 ---
 title: "Microfluidic Device"
 subtitle: "Resin Printing of Microfluidic Molds" 
-layout: splash
+layout: collection
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -14,6 +14,7 @@ header:
     - label: "Discussion"
       url: "/ docs/Discussion.MD"
 ---
+
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e9cfb891f179a241?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
