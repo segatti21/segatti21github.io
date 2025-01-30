@@ -1,8 +1,6 @@
 ---
 title: "Microfluidic Device"
 excerpt: "Resin Printing of Microfluidic Molds" 
-entries_layout: grid
-classes: wide
 header:
   image: /assets/img/RAB Teaser.png
   teaser: /assets/img/RightAngleStockPicture.jpeg
@@ -10,7 +8,6 @@ gallery:
   - image_path: assets/img/Bracket with2.png
   - image_path: assets/img/Side View of Bracket.png
   - image_path: assets/img/Bracket with 5.png
-   
 ---
 
 [Introduction](/Microfludic Devices/Introduction.MD)
