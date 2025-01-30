@@ -9,7 +9,7 @@ header:
     - label: "Introduction"
       url: "/Introduction.MD"
     - label: "Instructions"
-      url: "/Instructions.MD"
+      url: "/Instruction.MD"
     - label: "Discussion"
       url: "/Discussion.MD"
 --- 
