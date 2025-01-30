@@ -10,14 +10,16 @@ gallery:
   - image_path: assets/img/Bracket with 5.png
 ---
 
-[Introduction](/Microfludic Devices/Introduction.MD)
+Learn more about Microfluidic Devices: [Introduction](/Microfludic Devices/Introduction.MD)
 gallery:
   -image: /assets/img/RAB Teaser.png
 
-[Instructions](/Microfludic Devices/Instructions.MD)
+
+Learn how to use the Device: [Instructions](/Microfludic Devices/Instructions.MD)
 gallery:
   -image: /assets/img/RAB Teaser.png
 
-[Discussion](/Microfludic Devices/Discussion.MD)
+
+Let's Talk about the Device:[Discussion](/Microfludic Devices/Discussion.MD)
 gallery:
   -image: /assets/img/RAB Teaser.png
