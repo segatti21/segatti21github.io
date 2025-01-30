@@ -12,10 +12,13 @@ gallery:
 ---
 
 [Introduction](/portfolio/Microfludic Devices/Introduction.MD)
-image: /assets/img/RAB Teaser.png
+gallery:
+  -image: /assets/img/RAB Teaser.png
 
 [Instructions](/portfolio/Microfludic Devices/Instructions.MD)
-image: /assets/img/RAB Teaser.png
+gallery:
+  -image: /assets/img/RAB Teaser.png
 
 [Discussion](/portfolio/Microfludic Devices/Discussion.MD)
-image: /assets/img/RAB Teaser.png
+gallery:
+  -image: /assets/img/RAB Teaser.png
