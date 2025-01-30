@@ -11,11 +11,6 @@ gallery:
    
 ---
 
-
-Projects:
-  - title: "Introduction"
-  - url: /portfolio/Microfludic Devices/Introduction.MD
-  - title: "Instructions"
-  - url: /portfolio/Microfludic Devices/Instructions.MD
-  - title: "Discussion"
-  - url: /portfolio/Microfludic Devices/Discussion.MD
+[Introduction](/portfolio/Microfludic Devices/Introduction.MD)
+[Instructions](/portfolio/Microfludic Devices/Instructions.MD)
+[Discussion](/portfolio/Microfludic Devices/Discussion.MD)
