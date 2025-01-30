@@ -1,5 +1,5 @@
 ---
-title: "Microfluidic Device"
+title: ""
 subtitle: "Resin Printing of Microfluidic Molds" 
 header:
   overlay_color: "#000"
@@ -14,6 +14,9 @@ header:
       url: "/docs/Discussion.MD"
 
 ---
+## Microfluidic Device
+
+Welcome to the microfluidic device project page! Below, you will find an embedded CAD model.
 
 ## CAD Model
 
