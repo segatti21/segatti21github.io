@@ -8,10 +8,10 @@ header:
   overlay_image: /assets/img/Base Pic.jpg  
   actions:
     - label: "Introduction"
-      url: "Introduction.MD"
+      url: "/docs/Introduction.MD"
     - label: "Instructions"
-      url: "Instructions.MD"
+      url: "/docs/Instructions.MD"
     - label: "Discussion"
-      url: "Discussion.MD"
+      url: "/docs/Discussion.MD"
 ---
 
