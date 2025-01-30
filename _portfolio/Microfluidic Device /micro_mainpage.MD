@@ -7,15 +7,15 @@ header:
   overlay_image: /assets/img/Base Pic.jpg  
   actions:
     - label: "Introduction"
-      url: "/ docs/Introduction.MD"
+      url: "/docs /Introduction.MD"
     - label: "Instructions"
-      url: "/ docs/Instructions.MD"
+      url: "/docs /Instructions.MD"
     - label: "Discussion"
-      url: "/ docs/Discussion.MD"
----
+      url: "/docs /Discussion.MD"
 
 ---
-CAD Model:
+
+## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e9cfb891f179a241?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 ---
