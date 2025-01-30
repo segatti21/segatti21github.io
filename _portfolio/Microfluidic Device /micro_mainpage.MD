@@ -7,12 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/Base Pic.jpg  
   actions:
+    - label: "Introduction"
+      url: "Introduction.MD"
     - label: "Instructions"
-      url: "/Microfluidic Device/Instructions.MD"
-gallery:
-  - image_path: assets/img/Bracket with2.png
-  - image_path: assets/img/Side View of Bracket.png
-  - image_path: assets/img/Bracket with 5.png
+      url: "Instructions.MD"
+    - label: "Discussion"
+      url: "Discussion.MD"
 ---
 
 Learn more about Microfluidic Devices: [Introduction](/Microfludic Devices/Instructions.MD)
