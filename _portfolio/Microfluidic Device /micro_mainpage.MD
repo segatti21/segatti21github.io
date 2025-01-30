@@ -7,11 +7,11 @@ header:
   overlay_image: /assets/img/Base Pic.jpg  
   actions:
     - label: "Introduction"
-      url: "/_portfolio/Microfluidic Devices/docs/Introduction.MD"
+      url: "/Introduction.MD"
     - label: "Instructions"
-      url: "/_portfolio/Microfluidic Devices/docs/Instructions.MD"
+      url: "/Instructions.MD"
     - label: "Discussion"
-      url: "/_portfolio/Microfluidic Devices/docs/Discussion.MD"
+      url: "/Discussion.MD"
 --- 
 
 ## Microfluidic Device
