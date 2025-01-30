@@ -10,6 +10,10 @@ gallery:
   - image_path: assets/img/Bracket with 5.png
 ---
 
+actions:
+    - label: "My Projects"
+      url: "/Microfluidic Device/"
+
 Learn more about Microfluidic Devices: [Introduction](/Microfludic Devices/Introduction.MD)
 
 Learn how to use the Device: [Instructions](/Microfludic Devices/Instructions.MD)
