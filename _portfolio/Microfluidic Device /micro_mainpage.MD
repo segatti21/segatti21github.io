@@ -1,24 +1,21 @@
 ---
 title: "Microfluidic Device"
-excerpt: "Resin Printing of Microfluidic Molds" 
+subtitle: "Resin Printing of Microfluidic Molds" 
+layout: splash
 header:
-  image: /assets/img/RAB Teaser.png
-  teaser: /assets/img/RightAngleStockPicture.jpeg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/img/Base Pic.jpg  
   actions:
-    - label: "Introduction"
-      url: "/Microfluidic Device/Introduction.MD"
-    - label: "Introduction"
+    - label: "Instructions"
       url: "/Microfluidic Device/Instructions.MD"
-    - label: "Discussion"
-      url: "/Microfluidic Device/Discussion.MD"
-
 gallery:
   - image_path: assets/img/Bracket with2.png
   - image_path: assets/img/Side View of Bracket.png
   - image_path: assets/img/Bracket with 5.png
 ---
 
-Learn more about Microfluidic Devices: [Introduction](/Microfludic Devices/)
+Learn more about Microfluidic Devices: [Introduction](/Microfludic Devices/Instructions.MD)
 
 Learn how to use the Device: [Instructions](/Microfludic Devices/Instructions.MD)
 
