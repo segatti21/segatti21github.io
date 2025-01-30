@@ -1,6 +1,11 @@
 ---
 title: "Microfluidic Device"
-excerpt: "Resin Prining of Microfluidic Molds" 
+excerpt: "Resin Printing of Microfluidic Molds" 
+layout: collection
+permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+classes: wide
 header:
   image: /assets/img/RAB Teaser.png
   teaser: /assets/img/RightAngleStockPicture.jpeg
@@ -11,14 +16,14 @@ gallery:
    
 ---
 
-[Introduction](/portfolio/Microfludic Devices/Introduction.MD)
+[Introduction](/Microfludic Devices/Introduction.MD)
 gallery:
   -image: /assets/img/RAB Teaser.png
 
-[Instructions](/portfolio/Microfludic Devices/Instructions.MD)
+[Instructions](/Microfludic Devices/Instructions.MD)
 gallery:
   -image: /assets/img/RAB Teaser.png
 
-[Discussion](/portfolio/Microfludic Devices/Discussion.MD)
+[Discussion](/Microfludic Devices/Discussion.MD)
 gallery:
   -image: /assets/img/RAB Teaser.png
