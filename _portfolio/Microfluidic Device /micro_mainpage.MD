@@ -11,15 +11,8 @@ gallery:
 ---
 
 Learn more about Microfluidic Devices: [Introduction](/Microfludic Devices/Introduction.MD)
-gallery:
-  -image: /assets/img/RAB Teaser.png
-
 
 Learn how to use the Device: [Instructions](/Microfludic Devices/Instructions.MD)
-gallery:
-  -image: /assets/img/RAB Teaser.png
-
 
 Let's Talk about the Device:[Discussion](/Microfludic Devices/Discussion.MD)
-gallery:
-  -image: /assets/img/RAB Teaser.png
+
