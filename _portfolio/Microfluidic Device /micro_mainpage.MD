@@ -16,7 +16,11 @@ header:
 
 ## Microfluidic Device
 
-Welcome to the microfluidic device project page! Below, you will find an embedded CAD model.
+This page will provide you with
+  * Introduction on Microfluidic Devices
+  * Instructions for use and creation of the model
+  * Discussion of this project
+  * An interactive CAD model of the mold
 
 ## CAD Model
 
