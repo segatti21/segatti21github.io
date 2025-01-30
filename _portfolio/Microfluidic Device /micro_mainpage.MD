@@ -16,7 +16,7 @@ header:
 
 ## Microfluidic Device
 
-This page will provide you with
+This page will provide you with the following:
   * Introduction on Microfluidic Devices
   * Instructions for use and creation of the model
   * Discussion of this project
