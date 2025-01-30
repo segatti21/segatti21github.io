@@ -15,9 +15,3 @@ header:
       url: "Discussion.MD"
 ---
 
-Learn more about Microfluidic Devices: [Introduction](/Microfludic Devices/Instructions.MD)
-
-Learn how to use the Device: [Instructions](/Microfludic Devices/Instructions.MD)
-
-Let's Talk about the Device:[Discussion](/Microfludic Devices/Discussion.MD)
-
