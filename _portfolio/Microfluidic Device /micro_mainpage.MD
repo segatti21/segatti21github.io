@@ -4,7 +4,8 @@ excerpt: "Resin Printing of Microfluidic Molds"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Base Pic.jpg  
+  overlay_image: /assets/img/ExampleMicrofluidicDevice.png
+  teaser: /assets/img/ExampleMicrofluidicDevice.png
   actions:
     - label: "Introduction"
       url: "/Introduction.MD"
