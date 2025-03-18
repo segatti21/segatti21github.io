@@ -8,11 +8,11 @@ header:
   teaser: /assets/img/ExampleMicrofluidicDevice.png
   actions:
     - label: "Introduction"
-      url: "/Introduction.MD"
+      url: "/_pages/Introduction.MD"
     - label: "Instructions"
-      url: "/Instruction.MD"
+      url: "/_pages/Instruction.MD"
     - label: "Discussion"
-      url: "/Discussion.MD"
+      url: "/_pages/Discussion.MD"
 --- 
 
 ## Microfluidic Device
