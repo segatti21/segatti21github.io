@@ -1,7 +1,8 @@
 ---
 
-layout: single
-title: "Instructions for MicroFluidic Device"
+layout: page
+title: "Instructions"
+permalink: /_pages/Instructions
 
 ---
 
