@@ -6,6 +6,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/ExampleMicrofluidicDevice.png
   teaser: /assets/img/ExampleMicrofluidicDevice.png
+  gallery:
+  - image_path: assets/img/Bracket with2.png
+  - image_path: assets/img/Side View of Bracket.png
+  - image_path: assets/img/Bracket with 5.png
 --- 
 
 # Introduction
@@ -47,7 +51,13 @@ How to go from the 3D printed mold to the final device:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e82600be13efa8e4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
+# Device in Action
+
+![Watch the Video](https://img.youtube.com/vi/mzHloipDJ-q38agG/0.jpg)
+
+[Click here to watch on YouTube](https://youtube.com/shorts/6BwDO1pEXms?si=mzHloipDJ-q38agG)
+
+
+{% include gallery caption="The mold (left) and the casted device (right)" %}
 ---
-
-
-
