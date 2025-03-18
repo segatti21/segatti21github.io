@@ -4,8 +4,8 @@ excerpt: "An application of Top-Down Modeling"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/img/TPTeaser.pdf
-  teaser: assets/img/TPTeaser.pdf
+  overlay_image: assets/img/TPTeaser.jpg
+  teaser: assets/img/TPTeaser.jpg
 gallery:
   - image_path: assets/img/Bracket with2.png
   - image_path: assets/img/Side View of Bracket.png
