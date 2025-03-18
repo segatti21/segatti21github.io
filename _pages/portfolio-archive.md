@@ -12,3 +12,4 @@ My digital fabrication projects:
 * CAD Refresher Assignment
 * DIY Syringe Pump
 * Microfluidic Mold
+* MultiMaterial Pliers
