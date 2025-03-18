@@ -1,5 +1,6 @@
 ---
 
+layout: page
 title: "Instructions for MicroFluidic Device"
 
 ---
