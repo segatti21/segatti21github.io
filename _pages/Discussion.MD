@@ -2,6 +2,7 @@
 
 layout: pages
 title: "Discussion"
+permalink: /_pages/Discussion
 
 ---
 
