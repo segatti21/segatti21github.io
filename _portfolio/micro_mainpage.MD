@@ -26,18 +26,18 @@ Why is your geometry conducive to sorting? Discuss specific dimensions (pinch wi
 
 # Instructions  
 How to go from the 3D printed mold to the final device:
-- 1) CAD model
+1) CAD model
     - Begin by creating a detailed CAD model of the desired microfluidic device with all channels, chambers, and other microstructures required for the device's functionality.
-- 2) Print and cure mold
-    - Utilize a high-resolution 3D printer to fabricate the mold based on the CAD design. The choice of resin is crucial; however, many standard resins are cytotoxic and unsuitable for cell culture applications.​
-    - After printing, the mold should undergo a curing process to solidify the material and enhance its mechanical properties. Standard post-processing methods may not eliminate cytotoxicity, necessitating further treatment.
-- 3) Parylene device
+2) Print and cure mold
+    - Utilize a high-resolution 3D printer (in our case, a Form 4 printer) to fabricate the mold based on the CAD design. High Temp resin was chosen for its durability and resistance to extreme temperatures. 
+    - After printing, the mold should undergo a curing process to solidify the material and enhance its mechanical properties. This process includes cleaning the mold with isopropyl alcohol, placing the mold into a UV-curing chamber, and repeating until the mold is free from uncured resin.
+3) Parylene device
     - To render the 3D-printed mold biocompatible and suitable for use as a master mold for elastomeric device fabrication, deposit a thin layer of parylene—a polymer commonly used in medical device applications—onto the mold. This coating prevents leaching of toxic substances from the resin, ensuring compatibility with cell cultures.​
-- 4) Cast PDMS
+4) Cast PDMS
     - Mix polydimethylsiloxane (PDMS) elastomer and curing agent in the appropriate ratio (commonly 10:1 by weight) and degas the mixture to remove air bubbles.​
     - Pour the degassed PDMS over the parylene-coated mold, ensuring complete coverage of all microfeatures.​
     - Cure the PDMS by placing it in an oven at the recommended temperature (typically 60°C) for the specified duration to achieve complete polymerization.
-- 5) Plasma bond glass slide
+5) Plasma bond glass slide
     - Once cured, carefully peel the PDMS layer from the mold, exposing the microfluidic structures.​
     - Clean both the PDMS surface and the target glass slide thoroughly to remove any contaminants.​
     - Subject both surfaces to oxygen plasma treatment to activate them, which facilitates strong bonding.​
