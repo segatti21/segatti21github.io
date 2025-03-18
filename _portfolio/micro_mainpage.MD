@@ -10,7 +10,7 @@ header:
     - label: "Introduction"
       url: "/_pages/Introduction.MD"
     - label: "Instructions"
-      url: "/_pages/Instruction.MD"
+      url: "/_pages/Instructions.MD"
     - label: "Discussion"
       url: "/_pages/Discussion.MD"
 --- 
