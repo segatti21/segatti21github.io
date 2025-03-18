@@ -2,8 +2,8 @@
 title: "MultiMaterial-Pliers"
 excerpt: "3D printed needle-nose pliers with flexible material for the spring mechanism" 
 header:
-  image: /assets/img/RAB Teaser.png
-  teaser: /assets/img/RightAngleStockPicture.jpeg
+  image: /assets/img/MMPTeaser.png
+  teaser: /assets/img/MMPTeaser.png
 gallery:
   - image_path: assets/img/Bracket with2.png
   - image_path: assets/img/Side View of Bracket.png
