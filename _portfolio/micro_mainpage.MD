@@ -6,22 +6,21 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/ExampleMicrofluidicDevice.png
   teaser: /assets/img/ExampleMicrofluidicDevice.png
-  actions:
-    - label: "Introduction"
-      url: "/_pages/Introduction.MD"
-    - label: "Instructions"
-      url: "/_pages/Instructions.MD"
-    - label: "Discussion"
-      url: "/_pages/Discussion.MD"
 --- 
 
 ## Microfluidic Device
 
 This page will provide you with the following:
-  * Introduction on Microfluidic Devices
-  * Instructions for use and creation of the model
-  * Discussion of this project
-  * An interactive CAD model of the mold
+
+- **[Introduction](/_pages/Introduction.MD)**  
+  Get an overview of the project's purpose and background.
+
+- **[Discussion](/_pages/Discussion.MD)**  
+  A deeper dive into the challenges, technical considerations, and insights related to the device.
+
+- **[Instructions](/_pages/Instructions.MD)**  
+  Step-by-step guidance on assembling, using, and testing the microfluidic device.
+
 
 ## CAD Model
 
