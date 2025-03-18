@@ -4,12 +4,6 @@ main:
     url: /portfolio/
   - title: "About"
     url: /_pages/about
-  - title: "Introduction"
-    url: /_pages/Introduction
-  - title: "Instructions"
-    url: /_pages/Instructions
-  - title: "Discussion"
-    url: /_pages/Discussion
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
