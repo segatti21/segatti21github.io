@@ -32,15 +32,6 @@ gallery:
 ## Application for Sorting Small Particles
 - Sorting small particles is key for point-of-care diagnostics. For example, the detection of an infection would use a microfluidic device to sort through the small particles to find the white blood cell count. This is vital for patient relief and efficient, accurate treatment plans.
 
-# Discussion 
-Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS:  {Benefits}
-| Prevents PDMS Adhesion  | Higher Mold Durability | Improves Quality of Surface | Higher Chemical Resistance | Adds Hydrophobic Properties |
-| ----------------------- | ---------------------- | --------------------------- | -------------------------- | --------------------------- |
-| Helps reduce the roughness of resin printed molds that stop PDMS from sticking | Can undergo multiple castings without wearing down | Parylene forms a uniform, conformal layer, smoothing out minor defects | Incomplete curing of agents on the resin can negatively impact the PDMS | Higher hydrophobicity allows for finer details in the device |
-
-Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?
-
-Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
 
 # Instructions  
 How to go from the 3D printed mold to the final device:
@@ -60,6 +51,21 @@ How to go from the 3D printed mold to the final device:
     - Clean both the PDMS surface and the target glass slide thoroughly to remove any contaminants.​
     - Subject both surfaces to oxygen plasma treatment to activate them, which facilitates strong bonding.​
     - Immediately bring the activated PDMS and glass surfaces into contact, applying gentle pressure to ensure uniform adhesion and prevent the formation of air gaps.
+
+
+# Discussion 
+Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS:  {Benefits}
+| Reason                     | Explanation |
+|----------------------------|------------|
+| **Prevents PDMS Adhesion** | Resin molds are naturally rough and reactive, leading to PDMS sticking. Parylene creates a smooth, non-stick coating, reducing adhesion and making demolding easier. |
+| **Enhances Mold Durability** | Uncoated resin molds degrade after multiple PDMS castings due to mechanical stress and PDMS curing reactions. Parylene is chemically inert and wear-resistant, extending the mold’s lifespan. |
+| **Improves Surface Quality** | Resin-printed molds often have microscopic imperfections from the printing process. Parylene forms a uniform, conformal layer, smoothing out minor defects and leading to higher-quality PDMS replicas. |
+| **Chemical Resistance** | Some resin materials can react with PDMS curing agents, leading to incomplete curing or surface inhibition. Parylene is chemically stable, acting as a protective barrier against such reactions. |
+| **Hydrophobic Properties** | PDMS prefers hydrophobic surfaces for better replication of microstructures. Parylene’s hydrophobicity helps maintain fine details in microfluidic or soft lithography applications. |
+
+Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?
+
+Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
 
 # CAD Model {MFCADMODEL}
 
