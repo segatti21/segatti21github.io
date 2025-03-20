@@ -65,7 +65,7 @@ How to go from the 3D printed mold to the final device:
 | **Chemical Resistance** | Some resin materials can react with PDMS curing agents, leading to incomplete curing or surface inhibition. Parylene is chemically stable, acting as a protective barrier against such reactions. |
 | **Hydrophobic Properties** | PDMS prefers hydrophobic surfaces for better replication of microstructures. Parylene’s hydrophobicity helps maintain fine details in microfluidic or soft lithography applications. |
 
-### Hypothetical applications of My Microfluidic Device: <a id="apps"></a>
+### Hypothetical Applications of this Microfluidic Device: <a id="apps"></a>
 
 | Application Field  | Device Capacity | Outcome | Why It's Important |
 |--------------------|-------------------------------------|----------------------|-------------|
