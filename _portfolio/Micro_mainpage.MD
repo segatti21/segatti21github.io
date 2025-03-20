@@ -52,9 +52,10 @@ How to go from the 3D printed mold to the final device:
     - Subject both surfaces to oxygen plasma treatment to activate them, which facilitates strong bonding.​
     - Immediately bring the activated PDMS and glass surfaces into contact, applying gentle pressure to ensure uniform adhesion and prevent the formation of air gaps.
 
+{% include gallery caption="The resin-printed mold (left) and the casted device (right)" %}
 
-# Discussion 
-## Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS: <a id="benefits"></a>
+## Discussion 
+### Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS: <a id="benefits"></a>
 
 | Reason                     | Explanation |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -64,7 +65,7 @@ How to go from the 3D printed mold to the final device:
 | **Chemical Resistance** | Some resin materials can react with PDMS curing agents, leading to incomplete curing or surface inhibition. Parylene is chemically stable, acting as a protective barrier against such reactions. |
 | **Hydrophobic Properties** | PDMS prefers hydrophobic surfaces for better replication of microstructures. Parylene’s hydrophobicity helps maintain fine details in microfluidic or soft lithography applications. |
 
-## Hypothetical applications of My Microfluidic Device: <a id="apps"></a>
+### Hypothetical applications of My Microfluidic Device: <a id="apps"></a>
 
 | Application Field  | Device Capacity | Outcome | Why It's Important |
 |--------------------|-------------------------------------|----------------------|-------------|
@@ -74,13 +75,14 @@ How to go from the 3D printed mold to the final device:
 | Filtration Systems | Filter out chemical particulates from wastewater | Pollution Control | [Water Treatment](https://www3.epa.gov/npdes/pubs/bastre.pdf) |
 
 
+### Geometry Explained
+
 Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
 
 ## CAD Model <a id="CAD-Model"></a>
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e82600be13efa8e4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="The mold (left) and the casted device (right)" %}
 
 ## Device in Action
 
