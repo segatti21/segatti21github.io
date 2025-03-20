@@ -29,7 +29,7 @@ gallery:
 ![A general view of laminar flow from Lecture 4-uFluidics Slides](/assets/img/PinchedFlow.png)
 
 ### Application for Sorting Small Particles
-- Sorting small particles is key for point-of-care diagnostics. For example, the detection of an infection would use a microfluidic device to sort through the small particles to find the white blood cell count. This is vital for patient relief and efficient, accurate treatment plans.
+- Sorting small particles is key for point-of-care diagnostics. For example, the detection of an infection would use a microfluidic device to sort through the small particles to find the white blood cell count. This is vital for patient relief and efficient, accurate treatment plans. Although all of these applications may not apply to the device I have created, there are some [hypothetical applications] (#apps) that can be beneficial for use.
 
 
 
@@ -53,8 +53,8 @@ How to go from the 3D printed mold to the final device:
     - Immediately bring the activated PDMS and glass surfaces into contact, applying gentle pressure to ensure uniform adhesion and prevent the formation of air gaps.
 
 
-## Discussion 
-Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS: <a id="benefits"></a>
+# Discussion 
+## Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS: <a id="benefits"></a>
 
 | Reason                     | Explanation |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -64,7 +64,14 @@ Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS: <
 | **Chemical Resistance** | Some resin materials can react with PDMS curing agents, leading to incomplete curing or surface inhibition. Parylene is chemically stable, acting as a protective barrier against such reactions. |
 | **Hydrophobic Properties** | PDMS prefers hydrophobic surfaces for better replication of microstructures. Parylene’s hydrophobicity helps maintain fine details in microfluidic or soft lithography applications. |
 
-What are hypothetical applications of your microfluidic mixer or sorter?
+## Hypothetical applications of My Microfluidic Device: <a id="apps"></a>
+| Application Field  | Device Capacity | Outcome | Why This is Important |
+|--------------------|-------------------------------------|----------------------|
+| Cancer Diagnostics | Can separate circulating tumor cells from blood | Early cancer detection | [Early Detecting Saves Lives] (https://www.cancerresearch.org/blog/february-2025/early-detection-saves-lives-the-essential-cancer-screenings-you-cant-afford-to-skip#:~:text=The%20earlier%20a%20cancer%20is,cancer%20prevention%20and%20early%20detection.) |
+| Immunity | Can separate white blood cells and red blood cells | Understand a patient's immune health | [Cancer-Immune Interations](https://pmc.ncbi.nlm.nih.gov/articles/PMC4743529/#:~:text=It%20is%20the%20ability%20to,of%20flow%20in%20microfluidic%20systems.) |
+| Drug Dosing | Can separate drug nanoparticles | Keeps dosage formation consistent | [Pharmacy Calculations] (https://www.ncbi.nlm.nih.gov/books/NBK560924/) |
+| Filtration Systems | Filter out chemical particulates from wastewater | Pollution Control | [Water Treatment] (https://www3.epa.gov/npdes/pubs/bastre.pdf) |
+
 
 Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
 
