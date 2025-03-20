@@ -10,7 +10,7 @@ gallery:
   - image_path: assets/img/MOLD.png
   - image_path: assets/img/DEVICE.png
 
---- 
+---  
 
 ## Introduction
 ### μFluidic Devices
