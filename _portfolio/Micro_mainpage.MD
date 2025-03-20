@@ -4,11 +4,11 @@ excerpt: "Resin Printing of Microfluidic Molds"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/ExampleMicrofluidicDevice.png
-  teaser: /assets/img/ExampleMicrofluidicDevice.png
+  overlay_image: /assets/img/MOLD.png
+  teaser: /assets/img/MOLD.png
 gallery:
-  - image_path: assets/img/Bracket with2.png
-  - image_path: assets/img/Side View of Bracket.png
+  - image_path: assets/img/MOLD.png
+  - image_path: assets/img/DEVICE.png
 
 --- 
 
