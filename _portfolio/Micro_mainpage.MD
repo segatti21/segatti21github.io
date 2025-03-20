@@ -26,7 +26,7 @@ gallery:
 
 ## Pinch Flow Fractionation
 - Pinch flow fractionation is a powerful technique designed for the continuous separation of particles based on size, which  leverages laminar flow dynamics within microchannels to achieve size-based particle separation. The fundamental mechanism involves introducing a particle-laden fluid alongside a sheath fluid into a microchannel that narrows at a specific segment.As the flow enters the pinched segment, the particles experience a lateral force that drives them towards the channel wall. The extent of this lateral displacement is influenced by the size of the particles, with larger particles being pushed further from the center of the channel compared to smaller ones. This separation occurs as the flow transitions into a broadened segment, where the particles are allowed to spread laterally, effectively increasing the distance between particles of different sizes. The design of the microchannel, including the dimensions of the pinched and broadened segments, plays a crucial role in optimizing the separation efficiency
-![A general view of laminar flow from Lecture 4-uFluidics Slides](./assets/img/PinchedFlow.png)
+![A general view of laminar flow from Lecture 4-uFluidics Slides](/assets/img/PinchedFlow.png)
 
 
 ## Application for Sorting Small Particles
