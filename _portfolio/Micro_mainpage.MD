@@ -65,8 +65,8 @@ How to go from the 3D printed mold to the final device:
 | **Hydrophobic Properties** | PDMS prefers hydrophobic surfaces for better replication of microstructures. Parylene’s hydrophobicity helps maintain fine details in microfluidic or soft lithography applications. |
 
 ## Hypothetical applications of My Microfluidic Device: <a id="apps"></a>
-| Application Field  | Device Capacity | Outcome | Why This is Important |
-|--------------------|-------------------------------------|----------------------|
+| Application Field  | Device Capacity | Outcome | Why It's Important |
+|--------------------|-------------------------------------|----------------------|-------------|
 | Cancer Diagnostics | Can separate circulating tumor cells from blood | Early cancer detection | [Early Detecting Saves Lives] (https://www.cancerresearch.org/blog/february-2025/early-detection-saves-lives-the-essential-cancer-screenings-you-cant-afford-to-skip#:~:text=The%20earlier%20a%20cancer%20is,cancer%20prevention%20and%20early%20detection.) |
 | Immunity | Can separate white blood cells and red blood cells | Understand a patient's immune health | [Cancer-Immune Interations](https://pmc.ncbi.nlm.nih.gov/articles/PMC4743529/#:~:text=It%20is%20the%20ability%20to,of%20flow%20in%20microfluidic%20systems.) |
 | Drug Dosing | Can separate drug nanoparticles | Keeps dosage formation consistent | [Pharmacy Calculations] (https://www.ncbi.nlm.nih.gov/books/NBK560924/) |
