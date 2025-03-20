@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic Device"
-excerpt: "Resin Printing of Microfluidic Molds" 
+excerpt: "The math ([Geometries](#geo), the idea ([CAD Model](#CAD-Model)), demonstrated outcome ([My Device in Action](#DIA)), and everything else about the resin-printed mold for the microfluidic device project!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -75,7 +75,7 @@ How to go from the 3D printed mold to the final device:
 | Filtration Systems | Filter out chemical particulates from wastewater | Pollution Control | [Water Treatment](https://www3.epa.gov/npdes/pubs/bastre.pdf) |
 
 
-### Geometry Explained
+### Geometry Explained <a id="geo"></a>
 
 Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
 
@@ -84,7 +84,7 @@ Why is your geometry conducive to sorting? Discuss specific dimensions (pinch wi
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e82600be13efa8e4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-## Device in Action
+## Device in Action <a id="DIA"></a>
 
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/45m8hGkdYrw" 
