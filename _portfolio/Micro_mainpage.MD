@@ -55,6 +55,7 @@ How to go from the 3D printed mold to the final device:
 
 ## Discussion 
 Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS: <a id="benefits"></a>
+
 | Reason                     | Explanation |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Prevents PDMS Adhesion** | Resin molds are naturally rough and reactive, leading to PDMS sticking. Parylene creates a smooth, non-stick coating, reducing adhesion and making demolding easier. |
