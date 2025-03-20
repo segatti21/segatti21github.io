@@ -33,7 +33,7 @@ gallery:
 - Sorting small particles is key for point-of-care diagnostics. For example, the detection of an infection would use a microfluidic device to sort through the small particles to find the white blood cell count. This is vital for patient relief and efficient, accurate treatment plans.
 
 # Discussion 
-Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS:  
+Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS:  {Benefits}
 | Prevents PDMS Adhesion  | Higher Mold Durability | Improves Quality of Surface | Higher Chemical Resistance | Adds Hydrophobic Properties |
 | ----------------------- | ---------------------- | --------------------------- | -------------------------- | --------------------------- |
 | Helps reduce the roughness of resin printed molds that stop PDMS from sticking | Can undergo multiple castings without wearing down | Parylene forms a uniform, conformal layer, smoothing out minor defects | Incomplete curing of agents on the resin can negatively impact the PDMS | Higher hydrophobicity allows for finer details in the device |
@@ -45,12 +45,12 @@ Why is your geometry conducive to sorting? Discuss specific dimensions (pinch wi
 # Instructions  
 How to go from the 3D printed mold to the final device:
 1. **CAD model**
-    - Begin by creating a detailed CAD model of the desired microfluidic device with all channels, chambers, and other microstructures required for the device's functionality.
+    - Begin by creating a detailed CAD model [jumping to](#MFCADMODEL) of the desired microfluidic device with all channels, chambers, and other microstructures required for the device's functionality.
 2. **Print and cure mold**
     - Utilize a high-resolution 3D printer (in our case, a Form 4 printer) to fabricate the mold based on the CAD design. High Temp resin was chosen for its durability and resistance to extreme temperatures. 
     - After printing, the mold should undergo a curing process to solidify the material and enhance its mechanical properties. This process includes cleaning the mold with isopropyl alcohol, placing the mold into a UV-curing chamber, and repeating until the mold is free from uncured resin.
 3. **Parylene device**
-    - To render the 3D-printed mold biocompatible and suitable for use as a master mold for elastomeric device fabrication, deposit a thin layer of parylene—a polymer commonly used in medical device applications—onto the mold. This coating prevents leaching of toxic substances from the resin, ensuring compatibility with cell cultures.​
+    - To render the 3D-printed mold biocompatible and suitable for use as a master mold for elastomeric device fabrication, deposit a thin layer of parylene—a polymer commonly used in medical device applications—onto the mold. This coating prevents leaching of toxic substances from the resin, ensuring compatibility with cell cultures.​ See the reasoning for this in the Benefits in Discussion section [jumping to] (#Benefits).
 4. **Cast PDMS**
     - Mix polydimethylsiloxane (PDMS) elastomer and curing agent in the appropriate ratio (commonly 10:1 by weight) and degas the mixture to remove air bubbles.​
     - Pour the degassed PDMS over the parylene-coated mold, ensuring complete coverage of all microfeatures.​
@@ -61,7 +61,7 @@ How to go from the 3D printed mold to the final device:
     - Subject both surfaces to oxygen plasma treatment to activate them, which facilitates strong bonding.​
     - Immediately bring the activated PDMS and glass surfaces into contact, applying gentle pressure to ensure uniform adhesion and prevent the formation of air gaps.
 
-# CAD Model
+# CAD Model {MFCADMODEL}
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e82600be13efa8e4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
