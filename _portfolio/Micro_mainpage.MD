@@ -39,7 +39,7 @@ Sorting small particles is key for point-of-care diagnostics. For example, the d
 ## Instructions  
 How to go from the 3D printed mold to the final device:
 1. **CAD model**
-    - Begin by creating a detailed [CAD Model](#CAD-Model) of the desired microfluidic device with all channels, chambers, and other microstructures required for the device's functionality.
+    - Begin by creating a detailed [CAD Model](#CAD-Model) of the desired microfluidic device with all channels, chambers, and other microstructures required for the device's functionality. Refer to the proper calculations when creating dimensions.
 2. **Print and cure mold**
     - Utilize a high-resolution 3D printer (in our case, a Form 4 printer) to fabricate the mold based on the CAD design. High Temp resin was chosen for its durability and resistance to extreme temperatures. 
     - After printing, the mold should undergo a curing process to solidify the material and enhance its mechanical properties. This process includes cleaning the mold with isopropyl alcohol, placing the mold into a UV-curing chamber, and repeating until the mold is free from uncured resin.
@@ -49,11 +49,8 @@ How to go from the 3D printed mold to the final device:
     - Mix polydimethylsiloxane (PDMS) elastomer and curing agent in the appropriate ratio (commonly 10:1 by weight) and degas the mixture to remove air bubbles.​
     - Pour the degassed PDMS over the parylene-coated mold, ensuring complete coverage of all microfeatures.​
     - Cure the PDMS by placing it in an oven at the recommended temperature (typically 60°C) for the specified duration to achieve complete polymerization.
-5. **Plasma bond glass slide**
-    - Once cured, carefully peel the PDMS layer from the mold, exposing the microfluidic structures.​
-    - Clean both the PDMS surface and the target glass slide thoroughly to remove any contaminants.​
-    - Subject both surfaces to oxygen plasma treatment to activate them, which facilitates strong bonding.​
-    - Immediately bring the activated PDMS and glass surfaces into contact, applying gentle pressure to ensure uniform adhesion and prevent the formation of air gaps.
+
+After this, the resulting device can be tested to deem the success of the design and calculations.
 
 {% include gallery caption="Visuals of the resin-printed mold (left), the casted device (middle), and a general CAD drawing (right)" %}
 
