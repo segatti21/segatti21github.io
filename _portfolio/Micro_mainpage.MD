@@ -37,8 +37,7 @@ Pinch flow fractionation is a powerful technique designed for the continuous sep
 ### Application for Sorting Small Particles
 Sorting small particles is key for point-of-care diagnostics. For example, the detection of an infection would use a microfluidic device to sort through the small particles to find the white blood cell count. This is vital for patient relief and efficient, accurate treatment plans. Although all of these applications may not apply to the device I have created, there are some [hypothetical applications](#apps) that can be beneficial for use.
 
-
-
+---
 ## Instructions  
 How to go from the 3D printed mold to the final device:
 1. **CAD model**
@@ -60,7 +59,9 @@ How to go from the 3D printed mold to the final device:
 
 {% include gallery caption="Visuals of the resin-printed mold (left), the casted device (middle), and a general CAD drawing (right)" %}
 
+---
 ## Discussion 
+
 ### Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS: <a id="benefits"></a>
 
 | Reason                     | Explanation |
@@ -80,42 +81,31 @@ How to go from the 3D printed mold to the final device:
 | Drug Dosing | Can separate drug nanoparticles | Keeps dosage formation consistent | [Pharmacy Calculations](https://www.ncbi.nlm.nih.gov/books/NBK560924/) |
 | Filtration Systems | Filter out chemical particulates from wastewater | Pollution Control | [Water Treatment](https://www3.epa.gov/npdes/pubs/bastre.pdf) |
 
-
 ### Geometry Explained <a id="geo"></a>
 
 By utilizing the pinched flow fractionation, difference in particle size can determine separation. 
 
-1. *Pinch Width- 0.50 mm*
+1. *Pinch Width (pw)- 0.50 mm*
   - Allows guidance of 125–150 μm and 425–500 μm particles into separate flow paths 
   - On the smaller side of optimal size, but needs to be larger than the largest particle that should go through
 2. *Outlet Width- 3.655mm*
   - Small particles will travel to the top (17.6mm - 15.355mm from the bottom)
   - Large Particles will travel to the middle outlet (15.355mm - 12.60 mm from the bottom)
   - All others should go into the final and largest outlet at the bottom
-  - This was found using the outlet position equation below
+  - This was found using the outlet position equation: Y0 = (pw - D/2) * (bw/pw)
 3. *Port Location- Staggered*
   - Dr. Florian gave a base model that ensures sample flow at a velocity that maintains laminar conditions, avoids recombination, and any back pressure
 4. *Channel Depth- 
   - To ensure flow continues
-5. *Broad Length- 25 mm*
+5. *Broad Width (bw)- 25 mm*
   - Ensures chaotic advection will occur by allowing for more space to do so while also keeping the flow constant (ideally)
 6. *Channel Width- 19 mm*
   - This leaves room for the buffer zone while maximizing the space that the liquid can enter
 
+### Device Functionality
+Despite sub-optimal testing conditions, the device still showed proper separation of particles. The smaller orange particles went to the highest outlet channel, and some larger purple particles went into the middle outlet channel.
 
 
 ## CAD Model <a id="CAD-Model"></a>
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e82600be13efa8e4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-
-## Device in Action <a id="DIA"></a>
-
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/45m8hGkdYrw" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
-
-Given some issues during testing, this is a 
