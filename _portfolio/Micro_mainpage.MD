@@ -12,6 +12,8 @@ gallery:
   - image_path: assets/img/DEVICE.png
 
 ---  
+**The math ([Geometries](#geo)), the idea ([CAD Model](#CAD-Model)), demonstrated outcome ([My Device in Action](#DIA)), and everything else about the resin-printed mold for the microfluidic device project!**
+{: .subtitle}
 
 ## Introduction
 ### μFluidic Devices
