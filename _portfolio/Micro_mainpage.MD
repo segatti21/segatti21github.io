@@ -10,6 +10,7 @@ header:
 gallery:
   - image_path: assets/img/MOLD.png
   - image_path: assets/img/DEVICE.png
+  - image_path: assets/img/CADDrawing.png
 
 ---  
 **The math ([Geometries](#geo)), the idea ([CAD Model](#CAD-Model)), demonstrated outcome ([My Device in Action](#DIA)), and everything else about the resin-printed mold for the microfluidic device project!**
@@ -57,7 +58,7 @@ How to go from the 3D printed mold to the final device:
     - Subject both surfaces to oxygen plasma treatment to activate them, which facilitates strong bonding.​
     - Immediately bring the activated PDMS and glass surfaces into contact, applying gentle pressure to ensure uniform adhesion and prevent the formation of air gaps.
 
-{% include gallery caption="The resin-printed mold (left) and the casted device (right)" %}
+{% include gallery caption="Visuals of the resin-printed mold (left), the casted device (middle), and a general CAD drawing (right)" %}
 
 ## Discussion 
 ### Benefits of Coating Resin-printed Molds with Parylene Before Casting the PDMS: <a id="benefits"></a>
@@ -83,7 +84,6 @@ How to go from the 3D printed mold to the final device:
 ### Geometry Explained <a id="geo"></a>
 
 By utilizing the pinched flow fractionation, difference in particle size can determine separation. 
-![CAD Drawing](/assets/img/CADDrawing.png)
 
 1. *Pinch Width- 0.50 mm*
   - Allows guidance of 125–150 μm and 425–500 μm particles into separate flow paths 
