@@ -78,7 +78,25 @@ How to go from the 3D printed mold to the final device:
 ### Geometry Explained <a id="geo"></a>
 
 By utilizing the pinched flow fractionation, difference in particle size can determine separation. 
-Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
+ <img src="/assets/img/CADDrawing.png" alt="CAD Drawing" width="300" align="center">
+1. *Pinch Width- 0.50 mm*
+  - Allows guidance of 125–150 μm and 425–500 μm particles into separate flow paths 
+  - On the smaller side of optimal size, but needs to be larger than the largest particle that should go through
+2. *Outlet Width- 3.655mm*
+  - Small particles will travel to the top (17.6mm - 15.355mm from the bottom)
+  - Large Particles will travel to the middle outlet (15.355mm - 12.60 mm from the bottom)
+  - All others should go into the final and largest outlet at the bottom
+  - This was found using the outlet position equation below
+3. *Port Location- Staggered*
+  - Dr. Florian gave a base model that ensures sample flow at a velocity that maintains laminar conditions, avoids recombination, and any back pressure
+4. *Channel Depth- 
+  - To ensure flow continues
+5. *Large Reservoir Length- 25 mm*
+  - Ensures chaotic advection will occur by allowing for more space to do so while also keeping the flow constant (ideally)
+6. *Channel Width- 19 mm*
+  - This leaves room for the buffer zone while maximizing the space that the liquid can enter
+
+
 
 ## CAD Model <a id="CAD-Model"></a>
 
