@@ -1,7 +1,7 @@
 ---
 title: "Microfluidic Device"
 excerpt: "Resin-printed mold for a microfluidic device"
-subtitle: "The math ([Geometries](#geo)), the idea ([CAD Model](#CAD-Model)), demonstrated outcome ([My Device in Action](#DIA)), and everything else about the resin-printed mold for the microfluidic device project!"
+subtitle: "The math ([Geometries](#geo)), the idea ([CAD Model](#CAD-Model)), demonstrated outcome ([Outcome](#DIA)), and everything else about the resin-printed mold for the microfluidic device project!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -13,7 +13,7 @@ gallery:
   - image_path: assets/img/CADDrawing.png
 
 ---  
-**The math ([Geometries](#geo)), the idea ([CAD Model](#CAD-Model)), demonstrated outcome ([My Device in Action](#DIA)), and everything else about the resin-printed mold for the microfluidic device project!**
+**The math ([Geometries](#geo)), the idea ([CAD Model](#CAD-Model)), demonstrated outcome ([Outcome](#DIA)), and everything else about the resin-printed mold for the microfluidic device project!**
 {: .subtitle}
 
 ## Introduction
@@ -31,8 +31,6 @@ Example of a commercial device in action:
 
 ### Pinch Flow Fractionation
 Pinch flow fractionation is a powerful technique designed for the continuous separation of particles based on size, which  leverages laminar flow dynamics within microchannels to achieve size-based particle separation. This microfluidic device operates using laminar flow, as shown in the figure below. The fundamental mechanism involves introducing a particle-laden fluid alongside a sheath fluid into a microchannel that narrows at a specific segment. As the flow enters the pinched segment, the particles experience a lateral force that drives them towards the channel wall. The extent of this lateral displacement is influenced by the size of the particles, with larger particles being pushed further from the center of the channel compared to smaller ones. This separation occurs as the flow transitions into a broadened segment, where the particles are allowed to spread laterally, effectively increasing the distance between particles of different sizes. The design of the microchannel, including the dimensions of the pinched and broadened segments, plays a crucial role in optimizing the separation efficiency.
-
-![Laminar Flow](/assets/img/PinchedFlow.png)
 
 ### Application for Sorting Small Particles
 Sorting small particles is key for point-of-care diagnostics. For example, the detection of an infection would use a microfluidic device to sort through the small particles to find the white blood cell count. This is vital for patient relief and efficient, accurate treatment plans. Although all of these applications may not apply to the device I have created, there are some [hypothetical applications](#apps) that can be beneficial for use.
@@ -102,7 +100,7 @@ By utilizing the pinched flow fractionation, difference in particle size can det
 6. *Channel Width- 19 mm*
   - This leaves room for the buffer zone while maximizing the space that the liquid can enter
 
-### Device Functionality
+### Device Functionality <a id="DIA"></a>
 Despite sub-optimal testing conditions, the device still showed proper separation of particles. The smaller orange particles went to the highest outlet channel, and some larger purple particles went into the middle outlet channel.
 
 
