@@ -29,7 +29,9 @@ Example of a commercial device in action:
 </iframe>
 
 ### Pinch Flow Fractionation
-Pinch flow fractionation is a powerful technique designed for the continuous separation of particles based on size, which  leverages laminar flow dynamics within microchannels to achieve size-based particle separation. This microfluidic device operates using laminar flow, as shown in the figure below. <img src="/assets/img/PinchedFlow.png" alt="Laminar Flow" width="300" align="center"> The fundamental mechanism involves introducing a particle-laden fluid alongside a sheath fluid into a microchannel that narrows at a specific segment. As the flow enters the pinched segment, the particles experience a lateral force that drives them towards the channel wall. The extent of this lateral displacement is influenced by the size of the particles, with larger particles being pushed further from the center of the channel compared to smaller ones. This separation occurs as the flow transitions into a broadened segment, where the particles are allowed to spread laterally, effectively increasing the distance between particles of different sizes. The design of the microchannel, including the dimensions of the pinched and broadened segments, plays a crucial role in optimizing the separation efficiency.
+Pinch flow fractionation is a powerful technique designed for the continuous separation of particles based on size, which  leverages laminar flow dynamics within microchannels to achieve size-based particle separation. This microfluidic device operates using laminar flow, as shown in the figure below. The fundamental mechanism involves introducing a particle-laden fluid alongside a sheath fluid into a microchannel that narrows at a specific segment. As the flow enters the pinched segment, the particles experience a lateral force that drives them towards the channel wall. The extent of this lateral displacement is influenced by the size of the particles, with larger particles being pushed further from the center of the channel compared to smaller ones. This separation occurs as the flow transitions into a broadened segment, where the particles are allowed to spread laterally, effectively increasing the distance between particles of different sizes. The design of the microchannel, including the dimensions of the pinched and broadened segments, plays a crucial role in optimizing the separation efficiency.
+
+![Laminar Flow](assets/img/PinchedFlow.png)
 
 ### Application for Sorting Small Particles
 Sorting small particles is key for point-of-care diagnostics. For example, the detection of an infection would use a microfluidic device to sort through the small particles to find the white blood cell count. This is vital for patient relief and efficient, accurate treatment plans. Although all of these applications may not apply to the device I have created, there are some [hypothetical applications](#apps) that can be beneficial for use.
@@ -81,7 +83,8 @@ How to go from the 3D printed mold to the final device:
 ### Geometry Explained <a id="geo"></a>
 
 By utilizing the pinched flow fractionation, difference in particle size can determine separation. 
- <img src="assets/img/CADDrawing.png" alt="CAD Drawing" width="300" align="center">
+![CAD Drawing](assets/img/CADDrawing.png)
+
 1. *Pinch Width- 0.50 mm*
   - Allows guidance of 125–150 μm and 425–500 μm particles into separate flow paths 
   - On the smaller side of optimal size, but needs to be larger than the largest particle that should go through
@@ -94,7 +97,7 @@ By utilizing the pinched flow fractionation, difference in particle size can det
   - Dr. Florian gave a base model that ensures sample flow at a velocity that maintains laminar conditions, avoids recombination, and any back pressure
 4. *Channel Depth- 
   - To ensure flow continues
-5. *Large Reservoir Length- 25 mm*
+5. *Broad Length- 25 mm*
   - Ensures chaotic advection will occur by allowing for more space to do so while also keeping the flow constant (ideally)
 6. *Channel Width- 19 mm*
   - This leaves room for the buffer zone while maximizing the space that the liquid can enter
