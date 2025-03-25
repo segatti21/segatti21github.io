@@ -58,7 +58,7 @@ This combination led to the optimal center piece for balancing security and flex
 ## Picture Gallery
 
 ## Pliers in Action!
-![Pliers Picking Up Resistors](/assets/gif/9olst5.mp4)
+![Pliers Picking Up Resistors](/assets/gif/PliersResist.mp4)
 Here you can see the pliers picking up resistors and moving them in real time.
 When an unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
 
