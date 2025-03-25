@@ -25,8 +25,8 @@ PIP is a 3D printing technique that enables the creation of fully assembled, mov
 | **Integrated Enclosures** | rotating lids or sliding panels |
 
 ### Best Material Combinations for PIP <a id="mats"></a>
-#### *Rigid and Flexible Material* such as [PLA and TPU](#printset), respectively, enables moving parts where rigid sections provide structure and TPU acts as a spring, hinge, or flex joint.
-#### *PLA Blends* that use different colors or brands can help identify part boundaries or improve layer separation in post-processing if movement is restricted
+- *Rigid and Flexible Material* such as [PLA and TPU](#printset), respectively, enables moving parts where rigid sections provide structure and TPU acts as a spring, hinge, or flex joint.
+- *PLA Blends* that use different colors or brands can help identify part boundaries or improve layer separation in post-processing if movement is restricted
 
 
 ## CAD Model
