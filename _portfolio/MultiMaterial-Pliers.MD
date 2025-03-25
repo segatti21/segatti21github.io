@@ -53,12 +53,12 @@ This combination led to the optimal center piece for balancing security and flex
 - Perimeters: 3
 - No Top or Bottom Shell
 
-[Picture of Print Settings in Voron](assets/img/Bracket with 5.png)
+[Picture of Print Settings in Voron](/assets/img/Bracket with 5.png)
 
 ## Picture Gallery
 
 ## Pliers in Action!
-![Pliers Picking Up Resistors](assets/gif/9olst5.mp4)
+![Pliers Picking Up Resistors](/assets/gif/9olst5.mp4)
 Here you can see the pliers picking up resistors and moving them in real time.
 When an unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
 
