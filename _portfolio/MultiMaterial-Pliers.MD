@@ -10,7 +10,7 @@ gallery:
   - image_path: assets/img/Bracket with 5.png
    
 ---
-The objective of this project is to leverage flexible and rigid materials to create a spring-loaded tool that works straight off the printer—or with minimal manual assembly—without requiring screws, glue, or post-processing. This can be done using print-in-place [(PIP)](#pip) techniques which has a variety of [applications](#apps) and [materials](#mats).
+The objective of this project is to leverage flexible and rigid materials to create a spring-loaded tool that works straight off the printer—or with minimal manual assembly—without requiring screws, glue, or post-processing. This can be done using print-in-place [(PIP)](#pip) techniques which can be used in a variety of [applications](#apps) and with different [materials](#mats).
 
 ### PIP  <a id="pip"></a>
 PIP is a 3D printing technique that enables the creation of fully assembled, movable mechanisms directly on the print bed. Rather than printing each component separately and assembling them later, all parts are designed with precise tolerances and printed as a single object. Once the print is removed from the bed, it’s ready to be used without needed glue, screws, etc. These designs rely on built-in clearances between moving parts and often include clever geometries to allow rotation, flexing, or sliding.
