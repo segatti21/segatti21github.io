@@ -38,7 +38,7 @@ o Relevant specifications of the pliers (jaw length, jaw capacity)
 ## Picture Gallery
 
 ## Pliers in Action!
-![Alt text](relative/path/to/your-image.gif)
+![Alt text](assets/gif/PliersResist.gif)
 Here you can see the pliers picking up resistors and moving them in real time.
 When an unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
 
