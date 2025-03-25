@@ -14,10 +14,9 @@ gallery:
 Description of the project with a blurb about print-in-place parts. Perform external
 research to determine other applications print-in-place has been used. What
 combination of materials work well for print-in-place?
-o Embedded CAD model
 
 ## CAD Model
-### Plier Handles:
+### Plier Handles and Clamps:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a43dd46deefdbc450c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Center Flex Piece:
@@ -38,5 +37,9 @@ o Relevant specifications of the pliers (jaw length, jaw capacity)
 
 ## Picture Gallery
 
-## Pliers in Action
+## Pliers in Action!
+![Alt text](relative/path/to/your-image.gif)
+Here you can see the pliers picking up resistors and moving them in real time.
+When an unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
+
 {% include gallery caption="Right Angle Bracket Pictures Showing Various Angles and Hole Amount" %}
