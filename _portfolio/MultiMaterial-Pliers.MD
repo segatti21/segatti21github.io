@@ -11,22 +11,32 @@ gallery:
    
 ---
 
-# Description
+Description of the project with a blurb about print-in-place parts. Perform external
+research to determine other applications print-in-place has been used. What
+combination of materials work well for print-in-place?
+o Embedded CAD model
 
-* **Parametric Alterations** Easily change one value in the parameters section, which will change both bracket size number of holes without losing relational sizes.
-* **Thoroughly Names Steps** Isolate any portion of the CAD creation by simply going to the step with a name that best matches what you are attempting to alter.
-* **CAD Knowledge Refresher** Utilizing a wide variety of CAD techniques to create this model leads to a refresher on CAD material needed to increase confidence going back into a CAD course
+## CAD Model
+### Plier Handles:
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a43dd46deefdbc450c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e9cfb891f179a241?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+### Center Flex Piece:
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a41f54c77e74ac39c8?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Design and Iterative Process
+o About the design and iterative process 
 
-# Specifications
+o Print settings
+o Picture gallery of iterations and pliers.
+o .GIF of pliers working 
 
-# Print Settings
+## Design and Iterative Process: (e.g., how was the spring component created and how is it retained in the model, materials used)
 
-# Picture Gallery
+## Relevant Plier Specifications:
+o Relevant specifications of the pliers (jaw length, jaw capacity)
 
-# Pliers in Action
+## Print Settings
+
+## Picture Gallery
+
+## Pliers in Action
 {% include gallery caption="Right Angle Bracket Pictures Showing Various Angles and Hole Amount" %}
