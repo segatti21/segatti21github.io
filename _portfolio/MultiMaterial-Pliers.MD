@@ -25,7 +25,7 @@ PIP is a 3D printing technique that enables the creation of fully assembled, mov
 | **Integrated Enclosures** | rotating lids or sliding panels |
 
 ### Best Material Combinations for PIP <a id="mats"></a>
-#### *Rigid and Flexible Material* such as PLA and TPU, respectively, enables moving parts where rigid sections provide structure and TPU acts as a spring, hinge, or flex joint.
+#### *Rigid and Flexible Material* such as [PLA and TPU](#printset), respectively, enables moving parts where rigid sections provide structure and TPU acts as a spring, hinge, or flex joint.
 #### *PLA Blends* that use different colors or brands can help identify part boundaries or improve layer separation in post-processing if movement is restricted
 
 
@@ -42,12 +42,12 @@ PIP is a 3D printing technique that enables the creation of fully assembled, mov
 ## Relevant Plier Specifications:
 o Relevant specifications of the pliers (jaw length, jaw capacity)
 
-## Print Settings
+## Print Settings: <a id="printset"></a>
 
 ## Picture Gallery
 
 ## Pliers in Action!
-![Pliers Picking Up Resistors](assets/gif/PliersResist.gif)
+![Pliers Picking Up Resistors](assets/gif/9olst5.mp4)
 Here you can see the pliers picking up resistors and moving them in real time.
 When an unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
 
