@@ -37,12 +37,23 @@ PIP is a 3D printing technique that enables the creation of fully assembled, mov
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a41f54c77e74ac39c8?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-## Design and Iterative Process: (e.g., how was the spring component created and how is it retained in the model, materials used)
+## Design and Iterative Process 
 
-## Relevant Plier Specifications:
+To ensure the PLA (rigid) components could snap into secure place with the center piece, three grooves on each side (12 total) were used. These grooves had both vertical and horizontal components in order to increase the stability and connection. Additionally, the length of the center piece was set to be equal to that of the base of the clamps and the handle so it aligned accurately. 
+
+### Issues Encountered
+Initally, the pliers were too thin due to lesser extrusion of the sketches. This meant the support in the center could not keep it stable, which made each squeeze of the pliers shaky. From here, a few avenues were explored, including a smaller overall size (which led to lack of security in connection to the center piece), varying the infill and perimeter print settings of the center piece (finding a balance between flexibility and security), and altering the handle length and angles (allows for the clamp ends to meet in order to capture what needs to be picked up).
+
+## Relevant Plier Specifications
 o Relevant specifications of the pliers (jaw length, jaw capacity)
 
-## Print Settings: <a id="printset"></a>
+## Print Settings <a id="printset"></a>
+This combination led to the optimal center piece for balancing security and flexibility:
+- Infill: 15%
+- Perimeters: 3
+- No Top or Bottom Shell
+
+[Picture of Print Settings in Voron](assets/img/Bracket with 5.png)
 
 ## Picture Gallery
 
