@@ -68,5 +68,3 @@ This combination led to the optimal center piece for balancing security and flex
 
 Here you can see the pliers picking up resistors and moving them in real time.
 An unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
-
-
