@@ -58,7 +58,7 @@ This combination led to the optimal center piece for balancing security and flex
 - Perimeters: 3
 - No Top or Bottom Shell
 
-! [Picture of Print Settings in Voron](/assets/img/centerprint.png)
+![Picture of Print Settings](https://raw.githubusercontent.com/username/repo/main/assets/img/centerprint.png)
 
 ## Picture Gallery
 {% include gallery caption="The pliers from two different views" %}
