@@ -50,7 +50,7 @@ Initally, the pliers were too thin: a 4 millimeter extrusion. The depth was too 
 
 ## Relevant Plier Specifications
 
-![Minimal Plier Specifications Drawing](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/PlierDrawing.png)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/PlierDrawing.png" alt="Minimal Plier Specifications Drawing" style="width:60%; max-width:500px;" />
 
 ## Print Settings <a id="printset"></a>
 This combination led to the optimal center piece for balancing security and flexibility:
