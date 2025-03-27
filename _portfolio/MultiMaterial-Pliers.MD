@@ -44,13 +44,13 @@ Initally, the pliers were too thin: a 4 millimeter extrusion. The depth was too 
 
 | Alteration | Outcome | Example |
 | ----------- | ------- | ------- |
-| Smaller overall size by decreasing lengths of clamps and handles | Less secure in connection to the center piece | [25% Scaled Down](/assets/img/smallpliers.png) |
-| Varying infill and perimeter [print settings](#printset) of the center piece | Found a balance between flexibility and security | [Various Infills](/assets/img/infills.png) |
-| Altering the handle length and angles | Handles too long touched too soon and prevented complete clamping | [Longer Handles](/assets/img/longpliers.png) |
+| Smaller overall size by decreasing lengths of clamps and handles | Less secure in connection to the center piece | [25% Scaled Down](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/smallpliers.png) |
+| Varying infill and perimeter [print settings](#printset) of the center piece | Found a balance between flexibility and security | [Various Infills](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/infills.png) |
+| Altering the handle length and angles | Handles too long touched too soon and prevented complete clamping | [Longer Handles](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/longpliers.png) |
 
 ## Relevant Plier Specifications
 
-![Minimal Plier Specifications Drawing](/assets/img/PlierDrawing.png)
+![Minimal Plier Specifications Drawing](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/PlierDrawing.png)
 
 ## Print Settings <a id="printset"></a>
 This combination led to the optimal center piece for balancing security and flexibility:
@@ -64,7 +64,7 @@ This combination led to the optimal center piece for balancing security and flex
 {% include gallery caption="The pliers from two different views" %}
 
 ## Pliers in Action!
-![Pliers Picking Up Resistors](/assets/gif/PliersResist.gif)
+![Pliers Picking Up Resistors](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/gif/PliersResist.gif)
 Here you can see the pliers picking up resistors and moving them in real time.
 When an unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
 
