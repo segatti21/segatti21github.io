@@ -50,7 +50,7 @@ Initally, the pliers were too thin: a 4 millimeter extrusion. The depth was too 
 
 ## Relevant Plier Specifications
 
-[Picture of Print Settings in Voron](/assets/img/PlierDrawing.png)
+![Minimal Plier Specifications Drawing](/assets/img/PlierDrawing.png)
 
 ## Print Settings <a id="printset"></a>
 This combination led to the optimal center piece for balancing security and flexibility:
@@ -58,7 +58,7 @@ This combination led to the optimal center piece for balancing security and flex
 - Perimeters: 3
 - No Top or Bottom Shell
 
-[Picture of Print Settings in Voron](/assets/img/centerprint.png)
+! [Picture of Print Settings in Voron](/assets/img/centerprint.png)
 
 ## Picture Gallery
 {% include gallery caption="The pliers from two different views" %}
