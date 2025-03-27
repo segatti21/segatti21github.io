@@ -46,7 +46,7 @@ Initially, the pliers were too thin: a 4 millimeter extrusion. The depth was too
 | ----------- | ------- | ------- |
 | Smaller overall size by decreasing lengths of clamps and handles | Weaker connection to the center piece | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/gif/small.gif" alt="Smaller Pliers" />|
 | Varying infill and perimeter [print settings](#printset) of the center piece | Found a balance between flexibility and security | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/infills.png)" alt="Infills" /> |
-| Altering the handle length and angles | Handles too long touched too soon and prevented complete clamping | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/longpliers.png)" alt="Longer Handles" /> |
+| Altering the handle length and angles | Handles too long touched too soon and prevented complete clamping | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/longpliers.png)" alt="Longer Handles" /> | 
 
 ## Relevant Plier Specifications
 As shown below, the ratio of handles to clamps was around 4:3. The distance to close to ensure a needle-point end is around 15mm. There is ample space between and high enough angles within the handles to allow for the clamps to meet at the end. These ensure that the resistor with a wire lead of around 0.7mm and a body diameter of around 3 mm will be able to be picked up. 
