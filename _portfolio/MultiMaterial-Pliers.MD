@@ -67,6 +67,6 @@ This combination led to the optimal center piece for balancing security and flex
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/gif/PliersResist.gif" alt="Pliers Picking Up Resistor" style="width:120%; max-width:900px;" />
 
 Here you can see the pliers picking up resistors and moving them in real time.
-When an unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
+An unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
 
 
