@@ -58,13 +58,13 @@ This combination led to the optimal center piece for balancing security and flex
 - Perimeters: 3
 - No Top or Bottom Shell
 
-![Picture of Print Settings](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/centerprint.png)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/centerprint.png" alt="Picture of Print Settings" style="width:60%; max-width:500px;" />
 
 ## Picture Gallery
 {% include gallery caption="The pliers from two different views" %}
 
 ## Pliers in Action!
-![Pliers Picking Up Resistors](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/gif/PliersResist.gif)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/gif/PliersResist.gif" alt="Pliers Picking Up Resistor" style="width:120%; max-width:900px;" />
 
 Here you can see the pliers picking up resistors and moving them in real time.
 When an unskilled, unpracticed user (me) could use the pliers to move 14 resistors in 30 seconds. 
