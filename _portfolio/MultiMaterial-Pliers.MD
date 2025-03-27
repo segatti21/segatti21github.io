@@ -44,7 +44,7 @@ Initially, the pliers were too thin: a 4 millimeter extrusion. The depth was too
 
 | Alteration | Outcome | Example |
 | ----------- | ------- | ------- |
-| Smaller overall size by decreasing lengths of clamps and handles | Weaker connection to the center piece | [25% Scaled Down](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/smallpliers.png) |
+| Smaller overall size by decreasing lengths of clamps and handles | Weaker connection to the center piece | [25% Scaled Down](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/gif/small.gif) |
 | Varying infill and perimeter [print settings](#printset) of the center piece | Found a balance between flexibility and security | [Various Infills](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/infills.png) |
 | Altering the handle length and angles | Handles too long touched too soon and prevented complete clamping | [Longer Handles](https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/longpliers.png) |
 
