@@ -29,7 +29,7 @@ header:
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Model Serving Purpose" style="width:60%; max-width:500px;" /> 
 
   #### - ... Which is Important in the Real World Because...
-
+A soldering iron holder plays a critical role in electronics assembly, repair, and prototyping, especially in environments where safety, efficiency, and precision are essential. In academic and lab settings —- such as instrumentation courses or when assembling biomedical devices like syringe pumps -— a soldering iron holder provides a stable, heat-safe resting place for the iron between uses. This minimizes the risk of workspace damage, component burns, or fire hazards, while keeping the area organized for faster and more accurate soldering. Also, in professional or industrial workspaces, an optimized soldering iron holder contributes to faster production and better ergonomics by streamlining workflows and maintaining tool access. 
 
 
 ### How This Improves the Functionality of the Soldering Station
@@ -38,7 +38,7 @@ By having the tip and cleaning wire both so readily available and nearby the iro
 
 ### Relevance of the Soldering Iron to Me
 
-Improving the efficiency, organization, and speed of a soldering station is something my work in electrical/computer engineering and digital fabrication would benefit from, especially when soldering comes up in prototyping and instrumentation work. As someone who has used soldering to build circuitry for syringe pumps, radios, and other lab assignments, a well-optimized station minimizes time spent adjusting tools or searching for parts, allowing for deeper focus on precision and functionality. A streamlined setup reduces frustration and rework, which is crucial when handling sensitive components or operating under tight design iterations. It enhances safety and repeatability—two qualities essential in both academic and medical device settings. As I begin my transition to a professional role in medical technology, I hope these habits translate directly to better product quality, faster development cycles, and higher confidence in builds.
+Improving the efficiency, organization, and speed of a soldering station is something my academic work would benefit from, especially when soldering comes up in prototyping, assembly, and instrumentation work. As someone who has used soldering to build circuitry for syringe pumps, radios, and other lab assignments, a well-optimized station minimizes time spent adjusting tools or searching for parts, allowing for deeper focus on precision and functionality. A streamlined setup reduces frustration and rework, which is crucial when handling sensitive components or operating under tight design iterations. It enhances safety and repeatability—two qualities essential in both academic and medical device settings. As I begin my transition to a professional role in medical technology, I hope these habits translate directly to better product quality, faster development cycles, and higher confidence in builds.
 
 ---
 ## CAD Journey
@@ -62,7 +62,7 @@ There were various factors that determined if a component needed to be a preserv
 
 | Component Name | Preserve Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
-| Base of Holder | | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Next Comp" style="width:60%; max-width:500px;" /> |
+| Base of Holder |  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Next Comp" style="width:60%; max-width:500px;" /> |
 
 ## Critical Obstacle Regions
 
@@ -85,15 +85,18 @@ There were various factors that determined if a component needed to be an obstac
 
 | Name of Force | Magnitude (N) | Location Applied To | Angle to Face | Force Rational |
 | ------------- | ------------- | ------------------- | -------------- | -------------- |
+| Name of Force | Magnitude (N) | Location Applied To | Angle to Face | Force Rational |
 
 ### Determing Force Type, Magnitude, and Direction
 
 | Magnitude Rational | Direction Rational | Type Rational | 
 | ------------------ | ------------------ | ------------- |
+| Magnitude Rational | Direction Rational | Type Rational | 
 
 ### Structural Constraints
 Where did you apply structural constraints, and how did this affect the results?
-The primary structural constraint was to the base of the part, which ensured a solid, secure 
+The primary structural constraint was to the base of the part, which ensured a solid, secure
+
 | Component Name | Constraint  Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
 | Connecting Base of All Features | Keeps the base constant, which all other components depend on | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Part Base" style="width:60%; max-width:500px;" /> | 
