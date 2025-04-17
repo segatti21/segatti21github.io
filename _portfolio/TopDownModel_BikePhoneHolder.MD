@@ -7,8 +7,11 @@ header:
   overlay_image: assets/img/TModel.png
   teaser: assets/img/TModel.png
 ---
+### This project utilizes [Top-Down Modeling](#td) to create a versatile, secure phone holder for a bike or scooter handle that is compatible. A video walking through the outcome can be seen directly below, and further details are throughout this page.
 
-## Description of Top-Down Modeling
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e5bb1a6017753046?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Description of Top-Down Modeling <a id="td"></a>
 
 Top-down modeling is a powerful CAD design technique where the overall geometry and design intent of an assembly are defined at the top level before individual parts are created. This contrasts with bottom-up modeling, where parts are designed in isolation and later assembled. In top-down modeling, reference geometry such as planes, axes, and master sketches are established first and used as a foundation for all components, which are created in context to ensure fit and function.
 
@@ -18,11 +21,9 @@ For this project, top-down modeling was essential to ensure precise alignment be
 
 The design features a rotating phone cradle attached to a handlebar bracket via a [detent rotation mechanism](#detent). This mechanism uses a 3D-printed spring-loaded ball and corresponding notches to create tactile “clicks” when rotating 45 degrees. The rotation mechanism worked effectively after parameter tuning for spring force and notch depth, providing enough resistance to prevent unintended rotation while still being easy to adjust by hand.
 
-To account for 3D printing tolerances, I adjusted key clearances and tested various shaft diameters and notch widths. For example, the hole for phone side clamp insertions were designed with a 0.3 mm clearance to account for filament expansion and blips. Additionally, tolerances were added to ensure the spring could compress without jamming, and the detent could engage firmly.
+To account for 3D printing tolerances, I adjusted clearances, diameters, and notch widths. For example, the hole for phone side clamp insertions were designed with a 0.3 mm clearance to account for filament expansion and blips. Additionally, tolerances were added to ensure the spring could compress without jamming, and the detent could engage firmly.
 
 The FFF printer was used for the prototype due to accessibility and rapid iteration. For the side clamps and base of the phone holder, TPU was used. This ensured more elastic properties which allowed ease of side clamps arm insertion into the grooves of the center holder. Since the detent spring holder and bike handle brackets needed to remain stiff and firm, PLA was used for those two components. 
-
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e5bb1a6017753046?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Assembly and Use Instructions
 This tool-free installation makes the design highly user-friendly and adaptable for bikes or scooters that need simple detachment and attachment.
@@ -54,14 +55,17 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 ### Internal Rotation Mechanisms
 
 Below is the CAD model sliced to view what is seen within the device:
+
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/detentmech.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
 
 Here is a demonstration of the mechanism as the Phone Holder Rotates:  <a id="detgif"></a>
+
 <div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:78.2%;position:relative;"><iframe width="500" height="391" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2jn8"></iframe></div><p><a href="https://imgflip.com/gif/9r2jn8">via Imgflip</a></p></div>
 
 ### External Outcome  <a id="disp"></a>
 
 Here are real life showcases of the mechanism at work:
+
 <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2mdt"></iframe></div><p><a href="https://imgflip.com/gif/9r2mdt">via Imgflip</a></p></div>
 
 <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2miu"></iframe></div><p><a href="https://imgflip.com/gif/9r2miu">via Imgflip</a></p></div>
@@ -102,6 +106,7 @@ Notice how despite the twisting and shaking, in remains in tact and in the verti
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/plainside.png" alt="Plain Side of Handle Bracket" style="width:60%; max-width:500px;" />
 
 -- 
+## Overview
 Finally, here are various perspectives of the assembled design in CAD as an overview:
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/Rmodel.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
