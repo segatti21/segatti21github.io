@@ -55,7 +55,10 @@ Improving the efficiency, organization, and speed of a soldering station is some
 
 
 ### Critial Preserve Regions
-Quick writeup: What were the critical preserve regions in your model (e.g., mounting points, tool interfaces, constrained paths)?
+There were various factors that determined if a component needed to be a preserved. The criteria fell into one of these catergories: 
+- Contained mounting points,
+- Point of Tool interfaces
+- Constrained path
 
 | Component Name | Preserve Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
@@ -63,7 +66,10 @@ Quick writeup: What were the critical preserve regions in your model (e.g., moun
 
 ## Critical Obstacle Regions
 
-Quick writeup: How did you define obstacle geometry (i.e., space the part must avoid)?
+There were various factors that determined if a component needed to be an obstacle. The criteria fell into one of these catergories
+- Space the part must avoid
+- Area that cannot be overheated
+- It was 
 
 | Component Name | Obstacle  Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
@@ -75,27 +81,38 @@ Quick writeup: How did you define obstacle geometry (i.e., space the part must a
 
 ## Load Case Application and Structural Constraints
 
-| Name of Force | Magnitude (N) | Location Applied To | Magnitude Rational | Direction Rational | Overall Rational | 
-| ------------- | ------------- | ------------------- | ------------------ | ------------------ | ---------------- |
+### Load Characteristics
 
+| Name of Force | Magnitude (N) | Location Applied To | Angle to Face | Force Rational |
+| ------------- | ------------- | ------------------- | -------------- | -------------- |
 
 ### Determing Force Type, Magnitude, and Direction
 
+| Magnitude Rational | Direction Rational | Type Rational | 
+| ------------------ | ------------------ | ------------- |
+
 ### Structural Constraints
 Where did you apply structural constraints, and how did this affect the results?
+The primary structural constraint was to the base of the part, which ensured a solid, secure 
+| Component Name | Constraint  Rational | Picture in CAD |
+| ------------- | ------------- | ------------------- |
+| Connecting Base of All Features | Keeps the base constant, which all other components depend on | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Part Base" style="width:60%; max-width:500px;" /> | 
+| Solder Spool Holder Arms | Must remain rigid to avoid snapping / flexing when spool is spun | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Solder Arms" style="width:60%; max-width:500px;" /> |
 
 ### Further Testing
+How can you test your real-world prototype to further refine the loads?
 
 ---
 
 ## Generative Design Critique
 
 ### Usefulness
+In your experience, how useful is generative design for practical engineering or prototyping?
 
 ### Limitations Encountered
+What limitations did you encounter?
 
 ### Industry Evaluation
-
 After my experience with Generative Design, I would say that industries prioritizing weight reduction, strength optimization, and form refinement. Many topologies can be explored as well, offering a wide variety of aestetic options. On the other hand, industries that prioritize maintaining strict standards, easy mass production, and/or would not benefit from what Generative Design has to offer. The table below outlines specific industries that come to mind for either advancing from use or not. 
 
 | Industry | Great For / Bad For It | Rational | Source | 
