@@ -1,6 +1,6 @@
 ---
 title: "Final Project: Solder Holder"
-excerpt: "Use of Generative Design to create an aid for the Digital Fabrication space" 
+excerpt: "Use of Generative Design to create an aid for the soldering iron station of the Digital Fabrication space" 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -16,17 +16,19 @@ header:
 
 ### Final Part Description and Real World Context
 
-#### This Part Can...
+  ##### This Part Can...
 
-##### - Hold the Soldering Iron
+    ##### - Hold the Soldering Iron
 
-##### - Hold BLANK >= Six Soldering Tips
+    ##### - Hold BLANK >= Six Soldering Tips
 
-##### - Hold BLANK mm^2 of Soldering Iron Tip Cleaner Wire
+    ##### - Hold BLANK mm^2 of Soldering Iron Tip Cleaner Wire
+
+    ##### = Hold a Spool of Solder
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Model Serving Purpose" style="width:60%; max-width:500px;" /> 
 
-#### ... Which is Important in the Real World Because...
+  #### ... Which is Important in the Real World Because...
 
 
 
