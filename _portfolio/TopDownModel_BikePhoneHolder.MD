@@ -58,21 +58,21 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 ## Internal Rotation Mechanisms
 
-![Cross-section of detent mechanism](assets/img/detentmech.png)
-
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/detentmech.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
 ---
 
 ## How it Rotates
 
 <div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:78.2%;position:relative;"><iframe width="500" height="391" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2jn8"></iframe></div><p><a href="https://imgflip.com/gif/9r2jn8">via Imgflip</a></p></div>
 
-![Rotation Video](assets/img/spinningRL.mov)
-![Rotation Video](assets/img/spinningHV.mov)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/spinningRL.mov" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
+
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/spinningHV.mov" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
 
 ---
 
 ## Security in Position
-![Rotation Video](assets/img/stability.mov)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/stability.mov" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
 
 ---
 
@@ -84,7 +84,7 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 ## Picture of Printed Model
 
-![Phone holder in use](assets/img/inRL.png)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/inRL.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
 
 {% include gallery caption="Various Views of Full Model on Handlebars" %}
 
@@ -93,15 +93,15 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 ## Individual Components
 
 ### Center Phone Holder with Detent Cylinder
-![Bracket component](assets/img/centerclamps.png)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/centerclamps.png" alt="Center of Phone Holder" style="width:60%; max-width:500px;" />
 
 ### Side Clamps for adjustable security
-![Cradle component](assets/img/sideclamps.png)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/sideclamps.png" alt="Phone Clamps" style="width:60%; max-width:500px;" />
 
 ### Handlebar Security Brackets: Detent Side
-![Detent Bracket](assets/img/detentside.png)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/detentside.png" alt="Detent Side of Handle Bracket" style="width:60%; max-width:500px;" />
 
 ### Handlebar Security Brackets: Plain Side
-![Detent Bracket](assets/img/plainside.png)
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/plainside.png" alt="Plain Side of Handle Bracket" style="width:60%; max-width:500px;" />
 
 ---
