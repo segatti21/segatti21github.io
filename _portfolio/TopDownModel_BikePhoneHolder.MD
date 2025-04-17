@@ -60,7 +60,7 @@ Below is the CAD model sliced to view what is seen within the device:
 
 Here is a demonstration of the mechanism as the Phone Holder Rotates:  <a id="detgif"></a>
 
-<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:78.2%;position:relative;"><iframe width="500" height="391" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2jn8"></iframe></div><p><a href="https://imgflip.com/gif/9r2jn8">via Imgflip</a></p></div>
+<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:78.4%;position:relative;"><iframe width="500" height="392" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2ofb"></iframe></div><p><a href="https://imgflip.com/gif/9r2ofb">via Imgflip</a></p></div>
 
 ### External Outcome  <a id="disp"></a>
 
