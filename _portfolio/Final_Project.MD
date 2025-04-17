@@ -67,6 +67,7 @@ There were various factors that determined if a component needed to be a preserv
 ## Critical Obstacle Regions
 
 There were various factors that determined if a component needed to be an obstacle. The criteria fell into one of these catergories
+- Space that another object will take up
 - Space the part must avoid
 - Area that cannot be overheated
 - It was 
