@@ -46,6 +46,9 @@ Improving the efficiency, organization, and speed of a soldering station is some
 ### Original CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e5bb1a6017753046?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+### Generated Design Options
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/genopt.png" alt="Generated Options" style="width:60%; max-width:500px;" />
+
 ### Chosen Generated Design Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e5bb1a6017753046?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
@@ -62,7 +65,7 @@ There were various factors that determined if a component needed to be a preserv
 
 | Component Name | Preserve Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
-| Base of Holder |  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Next Comp" style="width:60%; max-width:500px;" /> |
+| Base of Holder |  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/base.png" alt="Next Comp" style="width:60%; max-width:500px;" /> |
 
 ## Critical Obstacle Regions
 
@@ -74,8 +77,8 @@ There were various factors that determined if a component needed to be an obstac
 
 | Component Name | Obstacle  Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
-| Solder Tip Clearance | The tip of the soldering iron must be free of obstacles | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK.png" alt="Tip Air Component" style="width:60%; max-width:500px;" />|
-| Wire Clearance | The end of the iron must have space for the wire to  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Next Comp" style="width:60%; max-width:500px;" /> |
+| Solder Tip Clearance | The tip of the soldering iron must be free of obstacles | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/tipclear.png" alt="Tip Air Component" style="width:60%; max-width:500px;" />|
+| Wire Clearance | The end of the iron must have space for the wire to  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/wireclear.png" alt="Next Comp" style="width:60%; max-width:500px;" /> |
 
 
 ---
@@ -100,8 +103,8 @@ The primary structural constraint was to the base of the part, which ensured a s
 
 | Component Name | Constraint  Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
-| Connecting Base of All Features | Keeps the base constant, which all other components depend on | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Part Base" style="width:60%; max-width:500px;" /> | 
-| Solder Spool Holder Arms | Must remain rigid to avoid snapping / flexing when spool is spun | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Solder Arms" style="width:60%; max-width:500px;" /> |
+| Connecting Base of All Features | Keeps the base constant, which all other components depend on | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/base.png" alt="Part Base" style="width:60%; max-width:500px;" /> | 
+| Solder Spool Holder Arms | Must remain rigid to avoid snapping / flexing when spool is spun | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/spoolarms.png" alt="Solder Arms" style="width:60%; max-width:500px;" /> |
 
 ### Further Testing
 How can you test your real-world prototype to further refine the loads?
