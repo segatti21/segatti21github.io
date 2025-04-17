@@ -4,11 +4,14 @@ excerpt: "An application of Top-Down Modeling"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/img/TPTeaser.jpg
-  teaser: assets/img/TPTeaser.jpg
+  overlay_image: assets/img/TModel.png
+  teaser: assets/img/TModel.png
 gallery:
-  - image_path: assets/img/Bracket with2.png
-  - image_path: assets/img/Side View of Bracket.png
+  - image_path: assets/img/TModel.png
+  - image_path: assets/img/UModel.png
+  - image_path: assets/img/BModel.png
+  - image_path: assets/img/RModel.png
+  - image_path: assets/img/LModel.png
 ---
 
 ## Description of Top-Down Modeling
@@ -55,7 +58,7 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 ## Internal Rotation Mechanisms
 
-![Cross-section of detent mechanism](assets/img/DETENT_CROSS_SECTION.png)
+![Cross-section of detent mechanism](assets/img/detentmech.png)
 
 ---
 
@@ -63,7 +66,13 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 <div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:78.2%;position:relative;"><iframe width="500" height="391" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2jn8"></iframe></div><p><a href="https://imgflip.com/gif/9r2jn8">via Imgflip</a></p></div>
 
-![Rotation Video](assets/spinningRL.mp4)
+![Rotation Video](assets/img/spinningRL.mov)
+![Rotation Video](assets/img/spinningHV.mov)
+
+---
+
+## Security in Position
+![Rotation Video](assets/img/stability.mov)
 
 ---
 
@@ -75,22 +84,24 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 ## Picture of Printed Model
 
-{% include gallery caption="Real life picture of printed model in use on handlebars" %}
-![Phone holder in use](assets/img/IN_USE_ON_HANDLEBARS.png)
+![Phone holder in use](assets/img/inRL.png)
+
+{% include gallery caption="Various Views of Full Model on Handlebars" %}
 
 ---
 
 ## Individual Components
 
 ### Center Phone Holder with Detent Cylinder
-![Bracket component](assets/img/BRACKET.png)
+![Bracket component](assets/img/centerclamps.png)
 
 ### Side Clamps for adjustable security
-![Cradle component](assets/img/CRADLE.png)
+![Cradle component](assets/img/sideclamps.png)
 
-### Detent Ball and Spring
-![Detent assembly](assets/img/DETENT_COMPONENTS.png)
+### Handlebar Security Brackets: Detent Side
+![Detent Bracket](assets/img/detentside.png)
 
-## Handlebar Security Brackets
+### Handlebar Security Brackets: Plain Side
+![Detent Bracket](assets/img/plainside.png)
 
 ---
