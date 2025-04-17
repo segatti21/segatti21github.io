@@ -119,7 +119,7 @@ What limitations did you encounter?
 ### Industry Evaluation
 After my experience with Generative Design, I would say that industries prioritizing weight reduction, strength optimization, and form refinement. Many topologies can be explored as well, offering a wide variety of aestetic options. On the other hand, industries that prioritize maintaining strict standards, easy mass production, and/or would not benefit from what Generative Design has to offer. The table below outlines specific industries that come to mind for either advancing from use or not. 
 
-| Industry | Great For / Bad For It | Rational | Source | 
+| Industry | Great/Bad For It | Rational | Source | 
 | -------- | ---------------------- | -------- | ------ | 
 | Medical Devices | Great For It | Can personalize implants/prosthetics/etc for specific patients | | 
 | Architectural Design and Construction| Great For It | Minimize material used and can explore aesthetic options | | 
