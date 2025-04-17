@@ -7,7 +7,7 @@ header:
   overlay_image: assets/img/TModel.png
   teaser: assets/img/TModel.png
 ---
-### This project utilizes [Top-Down Modeling](#td) to create a versatile, secure phone holder for a bike or scooter handle that is compatible. A video walking through the outcome can be seen directly below, and further details are throughout this page.
+### This project utilizes [Top-Down Modeling](#td) to create a versatile, secure phone holder compatible with a variety of bike or scooter handlebars. A video walking through the outcome can be seen directly below, and further details are throughout this page.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e5bb1a6017753046?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
@@ -21,16 +21,16 @@ For this project, top-down modeling was essential to ensure precise alignment be
 
 The design features a rotating phone cradle attached to a handlebar bracket via a [detent rotation mechanism](#detent). This mechanism uses a 3D-printed spring-loaded ball and corresponding notches to create tactile “clicks” when rotating 45 degrees. The rotation mechanism worked effectively after parameter tuning for spring force and notch depth, providing enough resistance to prevent unintended rotation while still being easy to adjust by hand.
 
-To account for 3D printing tolerances, I adjusted clearances, diameters, and notch widths. For example, the hole for phone side clamp insertions were designed with a 0.3 mm clearance to account for filament expansion and blips. Additionally, tolerances were added to ensure the spring could compress without jamming, and the detent could engage firmly.
+To account for 3D printing tolerances, I adjusted clearances, diameters, and notch widths. For example, the six openings for phone side clamp insertions were designed with a 0.3 mm clearance to account for filament expansion and blips. Additionally, tolerances were added to ensure the spring could compress without jamming, and the detent could engage firmly.
 
-The FFF printer was used for the prototype due to accessibility and rapid iteration. For the side clamps and base of the phone holder, TPU was used. This ensured more elastic properties which allowed ease of side clamps arm insertion into the grooves of the center holder. Since the detent spring holder and bike handle brackets needed to remain stiff and firm, PLA was used for those two components. 
+The FFF printer was used for the prototype due to accessibility and rapid iteration. For the side clamps and base of the phone holder, TPU was used, providing more elastic properties which allowed ease of side clamp arm insertion into the grooves of the center holder. Since the detent spring holder and bike handle brackets needed to remain stiff and firm, PLA was chosen for those components. 
 
 ## Assembly and Use Instructions
 This tool-free installation makes the design highly user-friendly and adaptable for bikes or scooters that need simple detachment and attachment.
 
 ### First Time Assembly:
-1. **Place Heat Inserts where Necessary**: Heat inserts need to be secured in the four holes on the [bike brackets](#secdet) to ensure it stays clamped onto the bike. Also, one needs to be placed into the hole on the cover of the detent cylinder because this allows the end of a secure screw catch the cylindrical groove on the detent spring side. This will ensure the phone holder will remain attached to the bike brackets.
-2. **Insert the Detent Mechanism**: Attach the spring with the [detent ball](#detent) into the cavities made to hold them. Ensure the spring has the ability to compress enough to where the ball can be fully detracted into the cavity, yet fully come out when tension is released as shown [below](#detgif).
+1. **Place Heat Inserts where Necessary**: Heat inserts need to be secured in the four holes on the [bike brackets](#secdet) to ensure it stays clamped onto the bike. Also, one needs to be placed into the hole on the cover of the detent cylinder because this allows the end of a secure screw to catch the cylindrical groove on the detent spring side. This will ensure the phone holder will remain attached to the bike brackets.
+2. **Insert the Detent Mechanism**: Attach the spring with the [detent ball](#detent) into the cavities made to hold them. Ensure the spring has the ability to compress enough to where the ball can be fully retracted into the cavity, yet fully come out when tension is released as shown [below](#detgif).
 
 ### Day-to-Day Use:
 1. **Mount the Bracket**: Attach the handlebar bracket to your bike using M5 x 25 mm fasteners aligned with the heat-set inserts. The bracket's inner diameter should align with the handlebar’s 22.2 mm or 25.4 mm diameter -- as it can fit either -- clamp area.
@@ -40,7 +40,7 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 ## Printing Technology Used
 
-- **Bracket and Detent Mechanism**: These were printed using PLA to offer enough stiffnessyet fine detail for the ~ 2 mm or less features.
+- **Bracket and Detent Mechanism**: These were printed using PLA to offer enough stiffness yet fine detail for the ~ 2 mm or less features.
 - **Phone Holder**: These parts were printed separately with TPU to provide greater flexibility and wear resistance, as well as more forgiving interaction with the phone. The downside with this was the extensive support material that was both tedious and difficult to remove.
 
 ---
