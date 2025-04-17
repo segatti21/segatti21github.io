@@ -105,5 +105,3 @@ Notice how despite the twisting and shaking, in remains in tact and in the verti
 
 ### Handlebar Security Brackets: Plain Side
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/plainside.png" alt="Plain Side of Handle Bracket" style="width:60%; max-width:500px;" />
-
----
