@@ -45,9 +45,31 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 ---
 
-## CAD Model of the Phone Holder
+## CAD Model of the Phone Holder with Phone Inside
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a43672bc1cbf4fc140?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47f0a9aa554930934?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+![Whole Model Breakdown](assets/spinning.mp4)
+
+---
+
+## Internal Rotation Mechanisms
+
+![Cross-section of detent mechanism](assets/img/DETENT_CROSS_SECTION.png)
+
+---
+
+## How it Rotates
+
+<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:78.2%;position:relative;"><iframe width="500" height="391" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2jn8"></iframe></div><p><a href="https://imgflip.com/gif/9r2jn8">via Imgflip</a></p></div>
+
+![Rotation Video](assets/spinningRL.mp4)
+
+---
+
+## CAD Model in Isolation
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a413d9274d3ca5fc37?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ---
 
@@ -55,26 +77,6 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 {% include gallery caption="Real life picture of printed model in use on handlebars" %}
 ![Phone holder in use](assets/img/IN_USE_ON_HANDLEBARS.png)
-
----
-
-## How it Rotates
-
-![Rotation GIF](assets/img/ROTATION.gif)
-
----
-
-## CAD Model of the Phone Holder with Phone Inside
-
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47f0a9aa554930934?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-![Rotation GIF](assets/spinning.mp4)
-
----
-
-## Internal Rotation Mechanisms
-
-![Cross-section of detent mechanism](assets/img/DETENT_CROSS_SECTION.png)
 
 ---
 
@@ -90,16 +92,5 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 ![Detent assembly](assets/img/DETENT_COMPONENTS.png)
 
 ## Handlebar Security Brackets
-
----
-
-
-# Individual Components
-
-## Bike Clamp
-
-## Phone Cradle
-
-## Intersection of Both where Detent Mechanism is
 
 ---
