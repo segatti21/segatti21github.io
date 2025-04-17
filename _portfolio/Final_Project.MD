@@ -16,27 +16,29 @@ header:
 
 ### Final Part Description and Real World Context
 
-  ##### This Part Can...
+  ##### - This Part Can...
 
-    ##### - Hold the Soldering Iron
+    ##### * Hold the Soldering Iron
 
-    ##### - Hold BLANK >= Six Soldering Tips
+    ##### * Hold BLANK >= Six Soldering Tips
 
-    ##### - Hold BLANK mm^2 of Soldering Iron Tip Cleaner Wire
+    ##### * Hold BLANK mm^2 of Soldering Iron Tip Cleaner Wire
 
-    ##### = Hold a Spool of Solder
+    ##### * Hold a Spool of Solder
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Model Serving Purpose" style="width:60%; max-width:500px;" /> 
 
-  #### ... Which is Important in the Real World Because...
+  #### - ... Which is Important in the Real World Because...
 
 
 
 ### How This Improves the Functionality of the Soldering Station
 
-By having the tip and cleaning wire both so readily available and nearby the iron itself, this allows for quicker soldering times. These assisting items needed at the station will have high proximity to the area of use, meaning less time spent on transportation and search. Also, this leads to higher area organization. When placing something back into its position after using it with the iron, the easiest spot to put it is also where it goes. 
+By having the tip and cleaning wire both so readily available and nearby the iron itself, this allows for quicker soldering times. These assisting items needed at the station will have high proximity to the area of use, meaning less time spent on transportation and search. Also, this leads to higher area organization. When placing something back into its position after using it with the iron, the easiest spot to put it is also where it goes. Additionally, the message of keeping clear of plastic helps remind both new and veteran users that this will oxidize the tip and make it useless.
 
 ### Relevance of the Soldering Iron to Me
+
+Improving the efficiency, organization, and speed of a soldering station is something my work in electrical/computer engineering and digital fabrication would benefit from, especially when soldering comes up in prototyping and instrumentation work. As someone who has used soldering to build circuitry for syringe pumps, radios, and other lab assignments, a well-optimized station minimizes time spent adjusting tools or searching for parts, allowing for deeper focus on precision and functionality. A streamlined setup reduces frustration and rework, which is crucial when handling sensitive components or operating under tight design iterations. It enhances safety and repeatability—two qualities essential in both academic and medical device settings. As I begin my transition to a professional role in medical technology, I hope these habits translate directly to better product quality, faster development cycles, and higher confidence in builds.
 
 ---
 ## CAD Journey
@@ -65,16 +67,16 @@ Quick writeup: How did you define obstacle geometry (i.e., space the part must a
 
 | Component Name | Obstacle  Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
-| Solder Tip Air | The tip of the soldering iron must be free of obstacles | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK.png" alt="Tip Air Component" style="width:60%; max-width:500px;" />|
-| | | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Next Comp" style="width:60%; max-width:500px;" /> |
+| Solder Tip Clearance | The tip of the soldering iron must be free of obstacles | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK.png" alt="Tip Air Component" style="width:60%; max-width:500px;" />|
+| Wire Clearance | The end of the iron must have space for the wire to  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Next Comp" style="width:60%; max-width:500px;" /> |
 
 
 ---
 
 ## Load Case Application and Structural Constraints
 
-| Name of Force | Magnitude (N) | Location Applied To | Rational |
-| ------------- | ------------- | ------------------- | -------- |
+| Name of Force | Magnitude (N) | Location Applied To | Magnitude Rational | Direction Rational | Overall Rational | 
+| ------------- | ------------- | ------------------- | ------------------ | ------------------ | ---------------- |
 
 
 ### Determing Force Type, Magnitude, and Direction
@@ -94,4 +96,16 @@ Where did you apply structural constraints, and how did this affect the results?
 
 ### Industry Evaluation
 
-<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Next Comp" style="width:60%; max-width:500px;" />
+After my experience with Generative Design, I would say that industries prioritizing weight reduction, strength optimization, and form refinement. Many topologies can be explored as well, offering a wide variety of aestetic options. On the other hand, industries that prioritize maintaining strict standards, easy mass production, and/or would not benefit from what Generative Design has to offer. The table below outlines specific industries that come to mind for either advancing from use or not. 
+
+| Industry | Great For / Bad For | Rational | Source | 
+| -------- | ------------------- | -------- | ------ | 
+| Medical Devices | Great For | Can personalize implants/prosthetics/etc for specific patients | | 
+| Architectural Design and Construction| Great For | Minimize material used and can explore aesthetic options | | 
+| Automotive Manufacturing | Great For | Looks to reduce mass and fuel usage | |
+| Aerospace Engineering | Great For | Saving weight is critical | |
+| Standardized Manufacturing | Bad For | Traditional parts cannot violate norms or tolerances | |
+| Mass Electronics | Bad For | Prioritize aesthetics, internal layout, and mass production compatibility over structural optimization | | 
+| Packaging | Bad For | Needs to be cheap and repeatable with materials like cardboard | | 
+
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/example.png" alt="Example" style="width:60%; max-width:500px;" />
