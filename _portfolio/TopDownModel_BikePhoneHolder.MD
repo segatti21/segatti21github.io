@@ -65,14 +65,16 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 <div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:78.2%;position:relative;"><iframe width="500" height="391" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2jn8"></iframe></div><p><a href="https://imgflip.com/gif/9r2jn8">via Imgflip</a></p></div>
 
-<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/spinningRL.mov" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2mdt"></iframe></div><p><a href="https://imgflip.com/gif/9r2mdt">via Imgflip</a></p></div>
 
-<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/spinningHV.mov" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2miu"></iframe></div><p><a href="https://imgflip.com/gif/9r2miu">via Imgflip</a></p></div>
 
 ---
 
 ## Security in Position
-<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/stability.mov" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
+
+Notice how despite the twisting and shaking, in remains in tact and in the vertical position:
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2mkl"></iframe></div><p><a href="https://imgflip.com/gif/9r2mkl">via Imgflip</a></p></div>
 
 ---
 
