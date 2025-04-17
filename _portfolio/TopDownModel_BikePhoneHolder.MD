@@ -6,12 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/img/TModel.png
   teaser: assets/img/TModel.png
-gallery:
-  - image_path: assets/img/TModel.png
-  - image_path: assets/img/UModel.png
-  - image_path: assets/img/BModel.png
-  - image_path: assets/img/RModel.png
-  - image_path: assets/img/LModel.png
+
 ---
 
 ## Description of Top-Down Modeling
@@ -55,16 +50,19 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 ![Whole Model Breakdown](assets/spinning.mp4)
 
 ---
+## Rotation Explained
 
-## Internal Rotation Mechanisms
+### Internal Rotation Mechanisms
 
+Below is the CAD model sliced to view what is seen within the device:
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/detentmech.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
----
 
-## How it Rotates
-
+Here is a demonstration of the mechanism as the Phone Holder Rotates:
 <div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:78.2%;position:relative;"><iframe width="500" height="391" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2jn8"></iframe></div><p><a href="https://imgflip.com/gif/9r2jn8">via Imgflip</a></p></div>
 
+### External Outcome
+
+Here are real life showcases of the mechanism at work:
 <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2mdt"></iframe></div><p><a href="https://imgflip.com/gif/9r2mdt">via Imgflip</a></p></div>
 
 <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9r2miu"></iframe></div><p><a href="https://imgflip.com/gif/9r2miu">via Imgflip</a></p></div>
@@ -88,8 +86,6 @@ Notice how despite the twisting and shaking, in remains in tact and in the verti
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/inRL.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
 
-{% include gallery caption="Various Views of Full Model on Handlebars" %}
-
 ---
 
 ## Individual Components
@@ -105,3 +101,11 @@ Notice how despite the twisting and shaking, in remains in tact and in the verti
 
 ### Handlebar Security Brackets: Plain Side
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/plainside.png" alt="Plain Side of Handle Bracket" style="width:60%; max-width:500px;" />
+
+-- 
+Finally, here are various perspectives of the assembled design in CAD as an overview:
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/Rmodel.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/LModel.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/BModel.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/UModel.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/TModel.png" alt="Sliced View Showing Detent" style="width:60%; max-width:500px;" />
