@@ -20,9 +20,9 @@ header:
 
     ##### * Hold the Soldering Iron
 
-    ##### * Hold BLANK >= Six Soldering Tips
+    ##### * Hold Up To BLANK Six Soldering Tips
 
-    ##### * Hold BLANK mm^2 of Soldering Iron Tip Cleaner Wire
+    ##### * Hold BLANK Grams of Soldering Iron Tip Cleaner Wire
 
     ##### * Hold a Spool of Solder
 
@@ -98,14 +98,14 @@ Where did you apply structural constraints, and how did this affect the results?
 
 After my experience with Generative Design, I would say that industries prioritizing weight reduction, strength optimization, and form refinement. Many topologies can be explored as well, offering a wide variety of aestetic options. On the other hand, industries that prioritize maintaining strict standards, easy mass production, and/or would not benefit from what Generative Design has to offer. The table below outlines specific industries that come to mind for either advancing from use or not. 
 
-| Industry | Great For / Bad For | Rational | Source | 
-| -------- | ------------------- | -------- | ------ | 
-| Medical Devices | Great For | Can personalize implants/prosthetics/etc for specific patients | | 
-| Architectural Design and Construction| Great For | Minimize material used and can explore aesthetic options | | 
-| Automotive Manufacturing | Great For | Looks to reduce mass and fuel usage | |
-| Aerospace Engineering | Great For | Saving weight is critical | |
-| Standardized Manufacturing | Bad For | Traditional parts cannot violate norms or tolerances | |
-| Mass Electronics | Bad For | Prioritize aesthetics, internal layout, and mass production compatibility over structural optimization | | 
+| Industry | Great For / Bad For It | Rational | Source | 
+| -------- | ---------------------- | -------- | ------ | 
+| Medical Devices | Great For It | Can personalize implants/prosthetics/etc for specific patients | | 
+| Architectural Design and Construction| Great For It | Minimize material used and can explore aesthetic options | | 
+| Automotive Manufacturing | Great For It | Looks to reduce mass and fuel usage | |
+| Aerospace Engineering | Great For It | Saving weight is critical | |
+| Standardized Manufacturing | Bad For It | Traditional parts cannot violate norms or tolerances | |
+| Mass Electronics | Bad For It | Prioritize aesthetics, internal layout, and mass production compatibility over structural optimization | | 
 | Packaging | Bad For | Needs to be cheap and repeatable with materials like cardboard | | 
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/example.png" alt="Example" style="width:60%; max-width:500px;" />
