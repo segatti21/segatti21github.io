@@ -48,8 +48,6 @@ This tool-free installation makes the design highly user-friendly and adaptable 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47f0a9aa554930934?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-![Whole Model Breakdown](assets/spinning.mp4)
-
 ---
 ## Rotation Explained <a id="detent"></a>
 
