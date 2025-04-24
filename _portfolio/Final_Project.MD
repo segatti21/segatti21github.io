@@ -16,15 +16,15 @@ header:
 
 ### Final Part Description and Real World Context
 
-  ##### This Part Can...
+  ### This Part Can...
 
-    ####### Hold the Soldering Iron
+    #### Hold the Soldering Iron
 
-    ####### Hold Up To BLANK Six Soldering Tips
+    #### Hold Up To BLANK Six Soldering Tips
 
-    ####### Hold BLANK Grams of Soldering Iron Tip Cleaner Wire
+    #### Hold BLANK Grams of Soldering Iron Tip Cleaner Wire
 
-    ####### Hold a Spool of Solder
+    #### Hold a Spool of Solder
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Model Serving Purpose" style="width:60%; max-width:500px;" /> 
 
