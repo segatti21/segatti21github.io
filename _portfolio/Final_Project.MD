@@ -42,6 +42,16 @@ This Part Can...
 
   By having the tip and cleaning wire both so readily available and nearby the iron itself, this allows for quicker soldering times. These assisting items needed at the station will have high proximity to the area of use, meaning less time spent on transportation and search. Also, this leads to higher area organization. When placing something back into its position after using it with the iron, the easiest spot to put it is also where it goes. Additionally, the message of keeping clear of plastic helps remind both new and veteran users that this will oxidize the tip and make it useless.
 
+- Old Set Up
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/old.jpeg" alt="Previous Setup" style="width:60%; max-width:500px;" /> 
+
+- Idea For Organization
+- Old Set Up
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/org.jpeg" alt="Previous Setup" style="width:60%; max-width:500px;" /> 
+
+- Outcome After Organizer in Place
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/new.jpeg" alt="Current Setup" style="width:60%; max-width:500px;" /> 
+
 ### Relevance of the Soldering Iron to Me
 
 Improving the efficiency, organization, and speed of a soldering station is something my academic work would benefit from, especially when soldering comes up in prototyping, assembly, and instrumentation work. As someone who has used soldering to build circuitry for syringe pumps, radios, and other lab assignments, a well-optimized station minimizes time spent adjusting tools or searching for parts, allowing for deeper focus on precision and functionality. A streamlined setup reduces frustration and rework, which is crucial when handling sensitive components or operating under tight design iterations. It enhances safety and repeatability—two qualities essential in both academic and medical device settings. As I begin my transition to a professional role in medical technology, I hope these habits translate directly to better product quality, faster development cycles, and higher confidence in builds.
