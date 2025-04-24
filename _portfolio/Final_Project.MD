@@ -8,7 +8,7 @@ header:
   teaser: assets/img/solderin.png
 ---
 
-### After choosing the third path, Digital Fabrication Aid, of the Generative Design Final Project for CHBE 4200, the idea of a new solder iron holder that can [hold the iron](#hold), [hold new soldering tips](#tips), and [hold solder cleaning wire](#wire) came to mind. 
+### After choosing the third path, Digital Fabrication Aid, of the Generative Design Final Project for CHBE 4200, the idea of a new solder iron holder that can [hold the iron](#hold), [hold the solder spools](#spool), [hold new soldering tips](#tips), and [hold solder cleaning wire](#wire) came to mind. 
 
 --- 
 
@@ -18,13 +18,15 @@ header:
 
 This Part Can...
 
-- Hold the Soldering Iron
+- Hold the Soldering Iron <a id="hold"></a>
 
-- Hold Up To Five Soldering Tips
+- Hold the Solder Spool and Guide During Use <a id="spool"></a>
 
-- Hold Soldering Iron Tip Cleaner Wire
+- Hold a Extra Spool of Solder
 
-- Hold a Spool of Solder
+- Hold Up To Five Soldering Tips <a id="tips"></a>
+
+- Hold Soldering Iron Tip Cleaner Wire <a id="wire"></a>
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Model Serving Purpose" style="width:60%; max-width:500px;" /> 
 
@@ -67,6 +69,8 @@ There were various factors that determined if a component needed to be a preserv
 - Point of Tool interfaces
 - Constrained path
 
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/preserve.png" alt="Preserve Geometries" style="width:60%; max-width:500px;" />
+
 | Component Name | Preserve Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
 | Base of Holder |  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/base.png" alt="Next Comp" style="width:60%; max-width:500px;" /> |
@@ -77,7 +81,8 @@ There were various factors that determined if a component needed to be an obstac
 - Space that another object will take up
 - Space the part must avoid
 - Area that cannot be overheated
-- It was 
+
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/obstacles.png" alt="Obstacle Geometries" style="width:60%; max-width:500px;" />
 
 | Component Name | Obstacle  Rational | Picture in CAD |
 | ------------- | ------------- | ------------------- |
