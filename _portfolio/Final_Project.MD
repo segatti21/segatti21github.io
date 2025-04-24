@@ -16,7 +16,8 @@ header:
 
 ### Final Part Description and Real World Context
 
-  ### This Part Can...
+This Part Can...
+
 - Hold the Soldering Iron
 
 - Hold Up To Five Soldering Tips
@@ -27,13 +28,14 @@ header:
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Model Serving Purpose" style="width:60%; max-width:500px;" /> 
 
-  #### ... Which is Important in the Real World Because...
-A soldering iron holder plays a critical role in electronics assembly, repair, and prototyping, especially in environments where safety, efficiency, and precision are essential. In academic and lab settings —- such as instrumentation courses or when assembling biomedical devices like syringe pumps -— a soldering iron holder provides a stable, heat-safe resting place for the iron between uses. This minimizes the risk of workspace damage, component burns, or fire hazards, while keeping the area organized for faster and more accurate soldering. Also, in professional or industrial workspaces, an optimized soldering iron holder contributes to faster production and better ergonomics by streamlining workflows and maintaining tool access. 
+... Which is Important in the Real World Because...
+
+  A soldering iron holder plays a critical role in electronics assembly, repair, and prototyping, especially in environments where safety, efficiency, and precision are essential. In academic and lab settings —- such as instrumentation courses or when assembling biomedical devices like syringe pumps -— a soldering iron holder provides a stable, heat-safe resting place for the iron between uses. This minimizes the risk of workspace damage, component burns, or fire hazards, while keeping the area organized for faster and more accurate soldering. Also, in professional or industrial workspaces, an optimized soldering iron holder contributes to faster production and better ergonomics by streamlining workflows and maintaining tool access. 
 
 
 ### How This Improves the Functionality of the Soldering Station
 
-By having the tip and cleaning wire both so readily available and nearby the iron itself, this allows for quicker soldering times. These assisting items needed at the station will have high proximity to the area of use, meaning less time spent on transportation and search. Also, this leads to higher area organization. When placing something back into its position after using it with the iron, the easiest spot to put it is also where it goes. Additionally, the message of keeping clear of plastic helps remind both new and veteran users that this will oxidize the tip and make it useless.
+  By having the tip and cleaning wire both so readily available and nearby the iron itself, this allows for quicker soldering times. These assisting items needed at the station will have high proximity to the area of use, meaning less time spent on transportation and search. Also, this leads to higher area organization. When placing something back into its position after using it with the iron, the easiest spot to put it is also where it goes. Additionally, the message of keeping clear of plastic helps remind both new and veteran users that this will oxidize the tip and make it useless.
 
 ### Relevance of the Soldering Iron to Me
 
