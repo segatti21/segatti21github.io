@@ -1,5 +1,5 @@
 ---
-title: "Final Project: Solder Holder"
+title: "Final Project: Solder Station Organizer"
 excerpt: "Use of Generative Design to create an aid for the soldering iron station of the Digital Fabrication space" 
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   teaser: assets/img/solderin.png
 ---
 
-### After choosing the third path, Digital Fabricatiin Aid, of the Generative Design Final Project for CHBE 4200, the idea of a new solder iron holder that can [hold the iron](#hold), [hold new soldering tips](#tips), and [hold solder cleaning wire](#wire) came to mind. 
+### After choosing the third path, Digital Fabrication Aid, of the Generative Design Final Project for CHBE 4200, the idea of a new solder iron holder that can [hold the iron](#hold), [hold new soldering tips](#tips), and [hold solder cleaning wire](#wire) came to mind. 
 
 --- 
 
@@ -17,14 +17,13 @@ header:
 ### Final Part Description and Real World Context
 
   ### This Part Can...
+- Hold the Soldering Iron
 
-    #### Hold the Soldering Iron
+- Hold Up To Five Soldering Tips
 
-    #### Hold Up To BLANK Six Soldering Tips
+- Hold Soldering Iron Tip Cleaner Wire
 
-    #### Hold BLANK Grams of Soldering Iron Tip Cleaner Wire
-
-    #### Hold a Spool of Solder
+- Hold a Spool of Solder
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/BLANK" alt="Model Serving Purpose" style="width:60%; max-width:500px;" /> 
 
@@ -110,17 +109,19 @@ The primary structural constraint was to the base of the part, which ensured a s
 | Solder Spool Holder Arms | Must remain rigid to avoid snapping / flexing when spool is spun | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/spoolarms.png" alt="Solder Arms" style="width:60%; max-width:500px;" /> |
 
 ### Further Testing
-How can you test your real-world prototype to further refine the loads?
+Thermal testing should be conducted by running the soldering iron in its holder and using an infrared thermometer or thermal camera to monitor nearby plastic surfaces, ensuring they stay below deformation thresholds. Vibration and handling tests should simulate realistic desk impacts or movement to evaluate part stability, joint durability, and component retention. Finally, a user ergonomics study should observe how users interact with the organizer to identify where loads are applied and how accessibility might influence structural stress. 
+
+Static load testing and fit tolerance checks have already been completed, confirming that the organizer supports the intended components and that multi-material parts align properly.
 
 ---
 
 ## Generative Design Critique
 
 ### Usefulness
-In your experience, how useful is generative design for practical engineering or prototyping?
+In my experience, generative design can be incredibly valuable for practical engineering and prototyping—especially for multifunctional devices like the soldering station organizer shown above. In this project, generative design helped optimize space, minimize material usage, and integrate multiple components into a compact, structurally sound unit. It enabled the rapid exploration of design alternatives that balanced functionality and manufacturability, particularly with additive processes like selective laser sintering. While the output sometimes required refinement for ease of assembly or printability, the ability to automatically generate geometry based on defined constraints—such as preserve regions around the iron holder or obstacle zones for wiring paths—was a major advantage. Overall, when used thoughtfully, generative design enhances efficiency, innovation, and performance in prototyping workflows.
 
 ### Limitations Encountered
-What limitations did you encounter?
+One limitation we encountered was the need to account for material differences— the generative component was printed using pSLS, while others used PLA filament, requiring careful tolerancing to ensure proper fit. Additionally, thermal management was critical; air gaps and non-contact zones had to be designed to prevent heat from the soldering iron from warping or damaging nearby plastic. These constraints limited the freedom of the generative model and required post-processing adjustments. Despite this, the process still significantly streamlined early-stage design and spatial optimization.
 
 ### Industry Evaluation
 After my experience with Generative Design, I would say that industries prioritizing weight reduction, strength optimization, and form refinement. Many topologies can be explored as well, offering a wide variety of aestetic options. On the other hand, industries that prioritize maintaining strict standards, easy mass production, and/or would not benefit from what Generative Design has to offer. The table below outlines specific industries that come to mind for either advancing from use or not. 
