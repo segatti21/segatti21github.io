@@ -14,6 +14,9 @@ header:
 
 ## Overview of the Part and Application
 
+### Final Design with Components in Place
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4aa7b6c719d66a30b?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ### Final Part Description and Real World Context
 
 This Part Can...
@@ -54,9 +57,6 @@ Improving the efficiency, organization, and speed of a soldering station is some
 
 ### Chosen Generated Design Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4f826b9cfd465529e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-### Final Design with Components in Place
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4aa7b6c719d66a30b?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ---
 
