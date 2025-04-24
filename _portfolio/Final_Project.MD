@@ -45,8 +45,7 @@ This Part Can...
 - Old Set Up
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/old.jpeg" alt="Previous Setup" style="width:60%; max-width:500px;" /> 
 
-- Idea For Organization
-- Old Set Up
+- Idea For Organization By Grouping
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/org.jpeg" alt="Previous Setup" style="width:60%; max-width:500px;" /> 
 
 - Outcome After Organizer in Place
