@@ -131,25 +131,22 @@ There were various factors that determined if a component needed to be an obstac
 
 | Name of Force | Magnitude Rational | Direction Rational | Type Rational | Force Rational |
 | ------------- | ------------------ | ------------------ | ------------- | -------------- |
-| Soldering_Iron_Weight | 2.00 | Lower Portion of Inner Cylinder of Iron Holder | 0 degrees | Force |
-| Backup_Weights | 4.00 | Base where Wire, Spools, and Catching Tray Go  | Perpendicular | Force |
-| Spool_Pin_Circle | 1.00 | Base where Wire, Spools, and Catching Tray Go  | N/A | Bearing Load |
-| Counter_Solder_Iron | 1.00 | Upper Portion of Inner Cylinder of Iron Holder | 0 degrees | Force |
-| Backup_Movements | 4.00 | Inner Edges of Backup Storage | Perpendicular | Force |
-| Solder_Guide | 0.50 | Insert Where Solder Guide Goes | 0 degrees | Force |
-| Solder_Spool_Support | 1.50 | Path of Pin to Secure Spot | Perpendicular | Force |
+| Soldering_Iron_Weight | Based on typical soldering iron weight (~200–300g) with safety margin to 2.00 N | Vertical (0°) to simulate gravity | Force used to replicate downward weight | Models iron resting in holder |
+| Backup_Weights | Estimated combined weight of spools, wire, tools (~400g) + margin | Perpendicular to tray surface | Force simulates static weight | Accounts for load on backup storage |
+| Spool_Pin_Circle | Based on spool weight (~100g per spool) | Bearing distributes radially | Bearing load for round contact area | Models spool resting on pin |
+| Counter_Solder_Iron | 50% of iron weight for insertion/removal forces | Vertical (0°) to counter iron load | Force simulates operational reaction | Prevents upper holder buckling |
+| Backup_Movements | 4.00 N simulating bumps or dynamic tool motion | Perpendicular to storage sides | Force models incidental impacts | Ensures stability under small shocks |
+| Solder_Guide | Light force (~50g) from solder guide | Vertical (0°) simulating guide insertion | Force for minor localized pressure | Ensures no deformation at insert |
+| Solder_Spool_Support | 1.5 N based on spool size and pull tension | Perpendicular to pin/holder path | Force for steady lateral load | Supports spool during wire unwinding |
+
+
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/loads.png" alt="Preserve Geometries" style="width:60%; max-width:500px;" />
 
 
 ### Structural Constraints
-Where did you apply structural constraints, and how did this affect the results?
-The primary structural constraint was to the base of the part, which ensured a solid, secure
 
-| Component Name | Constraint  Rational | Picture in CAD |
-| ------------- | ------------- | ------------------- |
-| Connecting Base of All Features | Keeps the base constant, which all other components depend on | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/base.png" alt="Part Base" style="width:60%; max-width:500px;" /> | 
-| Solder Spool Holder Arms | Must remain rigid to avoid snapping / flexing when spool is spun | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/spoolarms.png" alt="Solder Arms" style="width:60%; max-width:500px;" /> |
+There was one structural constraint: the base of the part. This ensured it accurately reflected how the part will be oriented and used in the world. 
 
 ### Further Testing
 Thermal testing should be conducted by running the soldering iron in its holder and using an infrared thermometer or thermal camera to monitor nearby plastic surfaces, ensuring they stay below deformation thresholds. Vibration and handling tests should simulate realistic desk impacts or movement to evaluate part stability, joint durability, and component retention. Finally, a user ergonomics study should observe how users interact with the organizer to identify where loads are applied and how accessibility might influence structural stress. 
