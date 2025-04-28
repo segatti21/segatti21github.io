@@ -4,8 +4,8 @@ excerpt: "Use of Generative Design to create an aid for the soldering iron stati
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/img/solderin.png
-  teaser: assets/img/solderin.png
+  overlay_image: assets/img/final.png
+  teaser: assets/img/final.png
 ---
 
 ### After choosing the third path, Digital Fabrication Aid, of the Generative Design Final Project for CHBE 4200, the idea of a new solder iron holder that can [hold the iron](#hold), [hold the solder spools](#spool), [hold new soldering tips](#tips), and [hold solder cleaning wire](#wire) came to mind. 
