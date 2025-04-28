@@ -43,12 +43,15 @@ This Part Can...
   By having the tip and cleaning wire both so readily available and nearby the iron itself, this allows for quicker soldering times. These assisting items needed at the station will have high proximity to the area of use, meaning less time spent on transportation and search. Also, this leads to higher area organization. When placing something back into its position after using it with the iron, the easiest spot to put it is also where it goes. Additionally, the message of keeping clear of plastic helps remind both new and veteran users that this will oxidize the tip and make it useless.
 
 - Old Set Up
+
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/old.jpeg" alt="Previous Setup" style="width:60%; max-width:500px;" /> 
 
 - Idea For Organization By Grouping
+
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/org.jpeg" alt="Previous Setup" style="width:60%; max-width:500px;" /> 
 
 - Outcome After Organizer in Place
+
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/new.jpeg" alt="Current Setup" style="width:60%; max-width:500px;" /> 
 
 ### Relevance of the Soldering Iron to Me
@@ -71,7 +74,6 @@ Improving the efficiency, organization, and speed of a soldering station is some
 
 ## Preserve and Obstacle Geometry
 
-
 ### Critial Preserve Regions
 There were various factors that determined if a component needed to be a preserved. The criteria fell into one of these catergories: 
 - Contained mounting points,
@@ -80,9 +82,12 @@ There were various factors that determined if a component needed to be a preserv
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/preserve.png" alt="Preserve Geometries" style="width:60%; max-width:500px;" />
 
-| Component Name | Preserve Rational | Picture in CAD |
-| ------------- | ------------- | ------------------- |
-| Base of Holder |  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/base.png" alt="Next Comp" style="width:60%; max-width:500px;" /> |
+| Component Name | Preserve Rational | 
+| -------------- | ----------------- |
+| Base of Holder | The size needs to remain reasonable, and the overall layout should remain similiar |
+| Solder Spool Center | The center that the extra spools slides onto must remain that size and diameter so it can hold the spools securely |
+| Solder Iron Holders | They need to maintain the right shape to catch the iron in the correct spot so the oxidizable tip can avoid plastic | 
+| Solder Pin and Guide Extension | This area needs to accurately match the sizes of the solder components that need to go in there such as the spool, pin, and the guide for the solder |
 
 ## Critical Obstacle Regions
 
@@ -90,13 +95,19 @@ There were various factors that determined if a component needed to be an obstac
 - Space that another object will take up
 - Space the part must avoid
 - Area that cannot be overheated
+- Space that needs to be open for a part to later access 
 
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/obstacles.png" alt="Obstacle Geometries" style="width:60%; max-width:500px;" />
 
-| Component Name | Obstacle  Rational | Picture in CAD |
-| ------------- | ------------- | ------------------- |
-| Solder Tip Clearance | The tip of the soldering iron must be free of obstacles | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/tipclear.png" alt="Tip Air Component" style="width:60%; max-width:500px;" />|
-| Wire Clearance | The end of the iron must have space for the wire to  | <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/wireclear.png" alt="Next Comp" style="width:60%; max-width:500px;" /> |
+| Component Name | Obstacle  Rational |
+| -------------- | ------------------ | 
+| Solder Tip Clearance | The tip of the soldering iron must be free of obstacles since plastic cannot be in the hot zone |
+| Solder Iron Clearance | The straight cyclindrical shape of the iron must fit into the holder |
+| Solder Tip Cleaning Wire Holder | There must be room for the wire holder in its cylindrical shape |
+| Solder Spools | The spools are a certain size and must be avoided because they need to have space, whether they are extra or in use |
+| Spare Soldering Tips | The tips must be place into the organizer without obstruction |
+| Solder Tip Guide Component | The generative design must not fill in the holes designed to hold the guide or in the way of the guide's placement |
+| Solder Spool Pin Path | The design must remain open where the pin will travel in and out to hold the solder spool and be caught for use |
 
 
 ---
@@ -105,15 +116,31 @@ There were various factors that determined if a component needed to be an obstac
 
 ### Load Characteristics
 
-| Name of Force | Magnitude (N) | Location Applied To | Angle to Face | Force Rational |
-| ------------- | ------------- | ------------------- | -------------- | -------------- |
-| Name of Force | Magnitude (N) | Location Applied To | Angle to Face | Force Rational |
+| Name of Force | Magnitude (N) | Location Applied To | Angle to Face | Force Type
+| ------------- | ------------- | ------------------- | -------------- | ------------- |
+| Soldering_Iron_Weight | 2.00 | Lower Portion of Inner Cylinder of Iron Holder | 0 degrees | Force |
+| Backup_Weights | 4.00 | Base where Wire, Spools, and Catching Tray Go  | Perpendicular | Force |
+| Spool_Pin_Circle | 1.00 | Base where Wire, Spools, and Catching Tray Go  | N/A | Bearing Load |
+| Counter_Solder_Iron | 1.00 | Upper Portion of Inner Cylinder of Iron Holder | 0 degrees | Force |
+| Backup_Movements | 4.00 | Inner Edges of Backup Storage | Perpendicular | Force |
+| Solder_Guide | 0.50 | Insert Where Solder Guide Goes | 0 degrees | Force |
+| Solder_Spool_Support | 1.50 | Path of Pin to Secure Spot | Perpendicular | Force |
+
 
 ### Determing Force Type, Magnitude, and Direction
 
-| Magnitude Rational | Direction Rational | Type Rational | 
-| ------------------ | ------------------ | ------------- |
-| Magnitude Rational | Direction Rational | Type Rational | 
+| Name of Force | Magnitude Rational | Direction Rational | Type Rational | Force Rational |
+| ------------- | ------------------ | ------------------ | ------------- | -------------- |
+| Soldering_Iron_Weight | 2.00 | Lower Portion of Inner Cylinder of Iron Holder | 0 degrees | Force |
+| Backup_Weights | 4.00 | Base where Wire, Spools, and Catching Tray Go  | Perpendicular | Force |
+| Spool_Pin_Circle | 1.00 | Base where Wire, Spools, and Catching Tray Go  | N/A | Bearing Load |
+| Counter_Solder_Iron | 1.00 | Upper Portion of Inner Cylinder of Iron Holder | 0 degrees | Force |
+| Backup_Movements | 4.00 | Inner Edges of Backup Storage | Perpendicular | Force |
+| Solder_Guide | 0.50 | Insert Where Solder Guide Goes | 0 degrees | Force |
+| Solder_Spool_Support | 1.50 | Path of Pin to Secure Spot | Perpendicular | Force |
+
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/loads.png" alt="Preserve Geometries" style="width:60%; max-width:500px;" />
+
 
 ### Structural Constraints
 Where did you apply structural constraints, and how did this affect the results?
@@ -134,10 +161,10 @@ Static load testing and fit tolerance checks have already been completed, confir
 ## Generative Design Critique
 
 ### Usefulness
-In my experience, generative design can be incredibly valuable for practical engineering and prototyping—especially for multifunctional devices like the soldering station organizer shown above. In this project, generative design helped optimize space, minimize material usage, and integrate multiple components into a compact, structurally sound unit. It enabled the rapid exploration of design alternatives that balanced functionality and manufacturability, particularly with additive processes like selective laser sintering. While the output sometimes required refinement for ease of assembly or printability, the ability to automatically generate geometry based on defined constraints—such as preserve regions around the iron holder or obstacle zones for wiring paths—was a major advantage. Overall, when used thoughtfully, generative design enhances efficiency, innovation, and performance in prototyping workflows.
+In my experience, generative design can be incredibly valuable for practical engineering and prototyping—especially for multifunctional devices like the soldering station organizer shown above. In this project, generative design helped optimize space, minimize material usage, and integrate multiple components into a compact, structurally sound unit. It enabled the rapid exploration of design alternatives that balanced functionality and manufacturability as well as can imitate nature. While the output sometimes required refinement for ease of assembly or printability, the ability to automatically generate geometry based on defined constraints—such as preserve regions around the iron holder or obstacle zones for wiring paths—was a major advantage. Overall, when used thoughtfully, generative design enhances efficiency, innovation, and performance in prototyping workflows.
 
 ### Limitations Encountered
-One limitation we encountered was the need to account for material differences— the generative component was printed using pSLS, while others used PLA filament, requiring careful tolerancing to ensure proper fit. Additionally, thermal management was critical; air gaps and non-contact zones had to be designed to prevent heat from the soldering iron from warping or damaging nearby plastic. These constraints limited the freedom of the generative model and required post-processing adjustments. Despite this, the process still significantly streamlined early-stage design and spatial optimization.
+One limitation encountered was the need to account for material differences— the generative component was printed using pSLS, while others used PLA filament, requiring careful tolerancing to ensure proper fit. Additionally, thermal management was critical; air gaps and non-contact zones had to be designed to prevent heat from the soldering iron from warping or damaging nearby plastic. These constraints limited the freedom of the generative model and required post-processing adjustments. Despite this, the process still significantly streamlined early-stage design and spatial optimization.
 
 ### Industry Evaluation
 After my experience with Generative Design, I would say that industries prioritizing weight reduction, strength optimization, and form refinement. Many topologies can be explored as well, offering a wide variety of aestetic options. On the other hand, industries that prioritize maintaining strict standards, easy mass production, and/or would not benefit from what Generative Design has to offer. The table below outlines specific industries that come to mind for either advancing from use or not. 
@@ -150,6 +177,8 @@ After my experience with Generative Design, I would say that industries prioriti
 | Aerospace Engineering | Great For It | Saving weight is critical | |
 | Standardized Manufacturing | Bad For It | Traditional parts cannot violate norms or tolerances | |
 | Mass Electronics | Bad For It | Prioritize aesthetics, internal layout, and mass production compatibility over structural optimization | | 
-| Packaging | Bad For | Needs to be cheap and repeatable with materials like cardboard | | 
+| Packaging | Bad For It | Needs to be cheap and repeatable with materials like cardboard | | 
 
-<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/example.png" alt="Example" style="width:60%; max-width:500px;" />
+Medical Devices:
+<img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/medindus.png" alt="Generative Design in Medical Devices" style="width:60%; max-width:500px;" />
+Source: Today's Medical Developments News
