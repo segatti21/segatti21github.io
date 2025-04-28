@@ -177,5 +177,7 @@ After my experience with Generative Design, I would say that industries prioriti
 | Packaging | Bad For It | Needs to be cheap and repeatable with materials like cardboard | | 
 
 Medical Devices:
+
 <img src="https://raw.githubusercontent.com/segatti21/segatti21github.io/main/assets/img/fp/medindus.png" alt="Generative Design in Medical Devices" style="width:60%; max-width:500px;" />
+
 Source: Today's Medical Developments News
